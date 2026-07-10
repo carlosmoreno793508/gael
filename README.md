@@ -24,7 +24,8 @@ gael/
 │   └── cloudflare.py         #   cookies de Chrome + curl_cffi (SwimCloud/WAF)
 ├── natacion/                 # tiempos de SwimCloud
 │   ├── swimcloud.py          #   scraping del perfil público (vía WAF)
-│   └── registro.py           #   escribe registros/natacion.md
+│   ├── registro.py           #   escribe registros/natacion.md
+│   └── fit.py                #   fit por prueba: tiempos vs estándares NCSA
 ├── whoop/                    # API no oficial de WHOOP (OAuth2)
 │   └── client.py             #   recuperación / HRV / RHR
 ├── reclutamiento/            # universidades objetivo (fuentes reales)
@@ -139,10 +140,13 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ---
 
 ## Pendiente
-- **Fit por prueba:** cruzar los tiempos reales de Gael contra los estándares de
-  tiempo de reclutamiento de cada universidad (la priorización actual usa solo
-  división + ranking del equipo; ver `reclutamiento/priorizar.py`).
-- Importar los tiempos reales desde `Tiempos Gael Moreno.xlsx` (hoy usa ejemplo).
+- **Tiempos actuales de Gael:** los archivos de Karla (`Tiempos/PB Gael Moreno.xlsx`)
+  llegan solo hasta 2018 (categoría S8/S9). El motor de fit (`natacion/fit.py`,
+  `scripts/fit_por_prueba.py`) ya funciona; falta alimentarlo con sus marcas
+  vigentes (idealmente desde su perfil de SwimCloud vía `natacion_update.py`).
+- **Estándares por división:** el PDF de NCSA da un solo nivel élite, no cortes
+  D1/D2/D3. Para un fit por división habría que sumar tablas de reclutamiento
+  (CollegeSwimming/SwimCloud) por división y género.
 - Activar `gmail_coaches_sync.py` por **cron** (aún no automático).
 - Parser de MeetMobile (endpoints inestables).
 

@@ -1,0 +1,36 @@
+{
+  "fuente": "2024 NCSA Spring Swimming Championships — Time Standards (MEN)",
+  "nota": "Corte de clasificación a NCSA Junior Nationals (nivel élite). NO son cortes de reclutamiento por división (D1/D2/D3); es un único nivel de referencia.",
+  "genero": "Men",
+  "estandares": [
+    {"evento": "50 Free",   "curso": "SCY", "tiempo": "21.69"},
+    {"evento": "100 Free",  "curso": "SCY", "tiempo": "47.09"},
+    {"evento": "200 Free",  "curso": "SCY", "tiempo": "1:43.09"},
+    {"evento": "500 Free",  "curso": "SCY", "tiempo": "4:39.59"},
+    {"evento": "1000 Free", "curso": "SCY", "tiempo": "9:36.89"},
+    {"evento": "1650 Free", "curso": "SCY", "tiempo": "16:08.59"},
+    {"evento": "100 Back",  "curso": "SCY", "tiempo": "52.89"},
+    {"evento": "200 Back",  "curso": "SCY", "tiempo": "1:54.79"},
+    {"evento": "100 Breast","curso": "SCY", "tiempo": "59.49"},
+    {"evento": "200 Breast","curso": "SCY", "tiempo": "2:09.79"},
+    {"evento": "100 Fly",   "curso": "SCY", "tiempo": "51.69"},
+    {"evento": "200 Fly",   "curso": "SCY", "tiempo": "1:54.89"},
+    {"evento": "200 IM",    "curso": "SCY", "tiempo": "1:56.29"},
+    {"evento": "400 IM",    "curso": "SCY", "tiempo": "4:08.09"},
+
+    {"evento": "50 Free",   "curso": "LCM", "tiempo": "24.79"},
+    {"evento": "100 Free",  "curso": "LCM", "tiempo": "53.99"},
+    {"evento": "200 Free",  "curso": "LCM", "tiempo": "1:58.09"},
+    {"evento": "400 Free",  "curso": "LCM", "tiempo": "4:09.79"},
+    {"evento": "800 Free",  "curso": "LCM", "tiempo": "8:40.79"},
+    {"evento": "1500 Free", "curso": "LCM", "tiempo": "16:41.69"},
+    {"evento": "100 Back",  "curso": "LCM", "tiempo": "1:01.39"},
+    {"evento": "200 Back",  "curso": "LCM", "tiempo": "2:12.39"},
+    {"evento": "100 Breast","curso": "LCM", "tiempo": "1:08.29"},
+    {"evento": "200 Breast","curso": "LCM", "tiempo": "2:29.79"},
+    {"evento": "100 Fly",   "curso": "LCM", "tiempo": "58.89"},
+    {"evento": "200 Fly",   "curso": "LCM", "tiempo": "2:10.59"},
+    {"evento": "200 IM",    "curso": "LCM", "tiempo": "2:13.59"},
+    {"evento": "400 IM",    "curso": "LCM", "tiempo": "4:43.89"}
+  ]
+}

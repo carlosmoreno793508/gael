@@ -1,0 +1,24 @@
+{
+  "nadador": "Gael Moreno Sarmiento",
+  "genero": "Men",
+  "ADVERTENCIA": "Estos PB provienen de 'PB Gael Moreno.xlsx' de Karla y son de 2017-2018 (Gael ~11-12 años, categorías S8/S9). NO son sus tiempos actuales. Reemplazar por marcas vigentes antes de usar el fit para decisiones.",
+  "pb": [
+    {"evento": "50 Free",   "curso": "SCY", "tiempo": "30.62", "fecha": "2018-02-23"},
+    {"evento": "50 Free",   "curso": "LCM", "tiempo": "33.55", "fecha": "2018-03-23"},
+    {"evento": "100 Free",  "curso": "SCY", "tiempo": "1:07.17", "fecha": "2018-02-09"},
+    {"evento": "100 Free",  "curso": "LCM", "tiempo": "1:13.92", "fecha": "2018-03-10"},
+    {"evento": "200 Free",  "curso": "SCY", "tiempo": "2:25.91", "fecha": "2018-02-23"},
+    {"evento": "200 Free",  "curso": "LCM", "tiempo": "2:39.35", "fecha": "2018-03-10"},
+    {"evento": "400 Free",  "curso": "LCM", "tiempo": "6:00.15", "fecha": "2018-03-10"},
+    {"evento": "50 Fly",    "curso": "SCY", "tiempo": "34.75", "fecha": "2018-02-09"},
+    {"evento": "50 Fly",    "curso": "LCM", "tiempo": "37.93", "fecha": "2018-03-23"},
+    {"evento": "50 Back",   "curso": "SCY", "tiempo": "36.60", "fecha": "2018-02-09"},
+    {"evento": "50 Back",   "curso": "LCM", "tiempo": "40.19", "fecha": "2018-03-23"},
+    {"evento": "100 Back",  "curso": "SCY", "tiempo": "1:18.71", "fecha": "2018-02-23"},
+    {"evento": "100 Back",  "curso": "LCM", "tiempo": "1:25.53", "fecha": "2018-03-23"},
+    {"evento": "50 Breast", "curso": "SCY", "tiempo": "43.64", "fecha": "2017-12-17"},
+    {"evento": "50 Breast", "curso": "LCM", "tiempo": "49.14", "fecha": "2018-03-23"},
+    {"evento": "100 IM",    "curso": "SCY", "tiempo": "1:19.71", "fecha": "2017-12-17"},
+    {"evento": "200 IM",    "curso": "LCM", "tiempo": "3:06.18", "fecha": "2018-03-10"}
+  ]
+}
