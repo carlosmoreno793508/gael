@@ -1,0 +1,29 @@
+# Credenciales — NUNCA subir al repo
+.env
+gmail_credentials.json
+gmail_token.json
+*token*.json
+whoop_token.json
+
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Documentos generados (se regeneran localmente)
+*.docx
+*.pdf
+*.xlsx
+!plantillas/*.docx
+
+# Selenium / ChromeDriver
+chromedriver
+chromedriver.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs crudos de scraping (los procesados sí se versionan)
+registros/_raw/

@@ -1,0 +1,42 @@
+[
+  {
+    "remitente": "Jane Doe <jdoe@athletics.stanford.edu>",
+    "asunto": "Stanford Swimming - Interested in your profile",
+    "cuerpo": "Hi Gael, I'm reaching out from our NCAA Division I program. We watched your recent times and would love to talk. Best, Jane Doe, Head Women's Swimming Coach, Stanford University."
+  },
+  {
+    "remitente": "Mike Rivera <mrivera@go.utexas.edu>",
+    "asunto": "Longhorns recruiting - official visit",
+    "cuerpo": "Gael, we'd like to invite you for an official visit. We are a Division I swim program. Coach Mike Rivera, Assistant Coach, University of Texas."
+  },
+  {
+    "remitente": "recruiting@ncsasports.org",
+    "asunto": "A coach viewed your NCSA profile",
+    "cuerpo": "Good news! A college coach just viewed your profile on NCSA. Log in to see who."
+  },
+  {
+    "remitente": "admissions@asu.edu",
+    "asunto": "Your interest in Arizona State",
+    "cuerpo": "Thank you for your interest. Information about scholarship and financial aid for student-athletes is attached."
+  },
+  {
+    "remitente": "coach@queens.edu",
+    "asunto": "Queens University swimming - D2",
+    "cuerpo": "Hello Gael, we are an NCAA Division II program with a strong swim team. Would you complete our recruiting questionnaire? Coach Sarah Lin."
+  },
+  {
+    "remitente": "info@indianriver.edu",
+    "asunto": "IRSC Swimming - junior college opportunity",
+    "cuerpo": "Our NJCAA (JUCO) program offers scholarships. We saw your prospect profile and time standards."
+  },
+  {
+    "remitente": "promociones@tienda.com",
+    "asunto": "Ofertas de verano 50% descuento",
+    "cuerpo": "Aprovecha nuestras ofertas de temporada. No relacionado con natacion."
+  },
+  {
+    "remitente": "notifications@github.com",
+    "asunto": "Run failed: update-wa-points.yml",
+    "cuerpo": "A workflow run failed in carlosmoreno793508/Natacion."
+  }
+]
