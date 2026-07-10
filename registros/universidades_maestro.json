@@ -1,0 +1,891 @@
+[
+  {
+    "universidad": "University of Cincinnati",
+    "division": "D1",
+    "conferencia": "Big 12",
+    "estado": "OH",
+    "coach": "Scott Stern",
+    "email": "sternsm@ucmail.uc.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Scott Stern"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "49th"
+  },
+  {
+    "universidad": "West Virginia University",
+    "division": "D1",
+    "conferencia": "Big 12",
+    "estado": "WV",
+    "coach": "James Washbish",
+    "email": "james.washbish@mail.wvu.edu",
+    "fuentes": [
+      "Contactos Colegios",
+      "SwimCloud"
+    ],
+    "coaches": [
+      "James Washbish",
+      "Todd DeSorbo",
+      "Vic Riggs"
+    ],
+    "origenes": [
+      "Contactos NCSA",
+      "GM US Univ"
+    ],
+    "rank_div": "59th"
+  },
+  {
+    "universidad": "Georgetown University",
+    "division": "D1",
+    "conferencia": "Big East",
+    "estado": "DC",
+    "coach": "Jack Leavitt",
+    "email": "jack.leavitt@georgetown.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Jack Leavitt"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "77th"
+  },
+  {
+    "universidad": "Cornell University",
+    "division": "D1",
+    "conferencia": "Ivy",
+    "estado": "NY",
+    "coach": "Wes Newman",
+    "email": "wjn3@cornell.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Wes Newman"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "50th"
+  },
+  {
+    "universidad": "Yale University",
+    "division": "D1",
+    "conferencia": "Ivy",
+    "estado": "CT",
+    "coach": "Kyle Schack",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios",
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Jim Henry",
+      "Kyle Schack"
+    ],
+    "origenes": [
+      "Contactos NCSA",
+      "GM US Univ"
+    ],
+    "rank_div": "45th"
+  },
+  {
+    "universidad": "California Baptist University",
+    "division": "D1",
+    "conferencia": "WAC",
+    "estado": "CA",
+    "coach": "Jim Bossert",
+    "email": "jbossert@calbaptist.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Jim Bossert"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "68th"
+  },
+  {
+    "universidad": "College of the Holy Cross",
+    "division": "D1",
+    "conferencia": "Patriot",
+    "estado": "MA",
+    "coach": "Kristy Jones",
+    "email": "klmjones@holycross.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Kristy Jones"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "118th"
+  },
+  {
+    "universidad": "Boston University",
+    "division": "D1",
+    "conferencia": "Patriot",
+    "estado": "MA",
+    "coach": "James Sica",
+    "email": "",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "James Sica"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "100th"
+  },
+  {
+    "universidad": "Lehigh University",
+    "division": "D1",
+    "conferencia": "Patriot",
+    "estado": "PA",
+    "coach": "Mary Ellen Wydan",
+    "email": "lehighswimdive@gmail.com",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Mary Ellen Wydan"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "113th"
+  },
+  {
+    "universidad": "University of Delaware",
+    "division": "D1",
+    "conferencia": "Coastal",
+    "estado": "DE",
+    "coach": "Pablo Marmolejo",
+    "email": "Pablom@udel.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Pablo Marmolejo"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "51st"
+  },
+  {
+    "universidad": "La Salle University",
+    "division": "D1",
+    "conferencia": "Atlantic 10",
+    "estado": "PA",
+    "coach": "Kerry Smith",
+    "email": "smithka@lasalle.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Kerry Smith"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "97th"
+  },
+  {
+    "universidad": "Southern Illinois University",
+    "division": "D1",
+    "conferencia": "Missouri Valley",
+    "estado": "IL",
+    "coach": "Ivan Sanchez",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Ivan Sanchez"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "57th"
+  },
+  {
+    "universidad": "South Dakota State University",
+    "division": "D1",
+    "conferencia": "Summit",
+    "estado": "SD",
+    "coach": "Douglas Humphrey",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Douglas Humphrey"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "94th"
+  },
+  {
+    "universidad": "Colorado Mesa University",
+    "division": "D2",
+    "conferencia": "Rocky Mountain Athletic",
+    "estado": "CO",
+    "coach": "Andy Parro",
+    "email": "aparro@coloradomesa.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Andy Parro"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "4th"
+  },
+  {
+    "universidad": "Grand Valley State University",
+    "division": "D2",
+    "conferencia": "GLIAC",
+    "estado": "MI",
+    "coach": "Eric Murray",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Eric Murray"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "6th"
+  },
+  {
+    "universidad": "University of Findlay",
+    "division": "D2",
+    "conferencia": "GMAC",
+    "estado": "OH",
+    "coach": "Diego Santos",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Diego Santos"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "9th"
+  },
+  {
+    "universidad": "Emmanuel University - Georgia",
+    "division": "D2",
+    "conferencia": "Carolinas",
+    "estado": "GA",
+    "coach": "Allen Gilchrest",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Allen Gilchrest"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "34th"
+  },
+  {
+    "universidad": "Barry University",
+    "division": "D2",
+    "conferencia": "Sunshine",
+    "estado": "FL",
+    "coach": "Noah Moran",
+    "email": "nmoran@barry.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Noah Moran"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "48th"
+  },
+  {
+    "universidad": "Wheeling University",
+    "division": "D2",
+    "conferencia": "Mountain East",
+    "estado": "WV",
+    "coach": "Cory Kephart",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Cory Kephart"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "70th"
+  },
+  {
+    "universidad": "West Virginia Wesleyan College",
+    "division": "D2",
+    "conferencia": "Mountain East",
+    "estado": "WV",
+    "coach": "Collin Meadows",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Collin Meadows"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "73rd"
+  },
+  {
+    "universidad": "Trinity University",
+    "division": "D3",
+    "conferencia": "SCAC",
+    "estado": "TX",
+    "coach": "Mark Lang",
+    "email": "mlang1@trinity.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Mark Lang"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "29th"
+  },
+  {
+    "universidad": "Denison University",
+    "division": "D3",
+    "conferencia": "North Coast",
+    "estado": "OH",
+    "coach": "Gregg Parini",
+    "email": "",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Gregg Parini"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "8th"
+  },
+  {
+    "universidad": "Rose-Hulman Institute of Technology",
+    "division": "D3",
+    "conferencia": "Heartland",
+    "estado": "IN",
+    "coach": "Keith Crawford",
+    "email": "Crawford@Rose-Hulman.edu",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Keith Crawford"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "55th"
+  },
+  {
+    "universidad": "University of Chicago",
+    "division": "D3",
+    "conferencia": "UAA",
+    "estado": "IL",
+    "coach": "Jason Weber",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Jason Weber"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "5th"
+  },
+  {
+    "universidad": "Carroll University",
+    "division": "D3",
+    "conferencia": "CCIW",
+    "estado": "WI",
+    "coach": "Guy Gniotczynski",
+    "email": "agniotcz@carrollu.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Guy Gniotczynski"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "180th"
+  },
+  {
+    "universidad": "Millikin University",
+    "division": "D3",
+    "conferencia": "CCIW",
+    "estado": "IL",
+    "coach": "Edward Pacey",
+    "email": "epacey@millikin.edu",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Edward Pacey"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "178th"
+  },
+  {
+    "universidad": "North Central College",
+    "division": "D3",
+    "conferencia": "CCIW",
+    "estado": "IL",
+    "coach": "Nora Schroedter",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Nora Schroedter"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "201st"
+  },
+  {
+    "universidad": "Lycoming College",
+    "division": "D3",
+    "conferencia": "Landmark",
+    "estado": "PA",
+    "coach": "Andrew Dragunas",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Andrew Dragunas"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "221st"
+  },
+  {
+    "universidad": "Whittier College",
+    "division": "D3",
+    "conferencia": "SCIAC",
+    "estado": "CA",
+    "coach": "Michael Jafari",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Michael Jafari"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "112th"
+  },
+  {
+    "universidad": "McMurry University",
+    "division": "D3",
+    "conferencia": "SCAC",
+    "estado": "TX",
+    "coach": "Samuel Willstrop",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Samuel Willstrop"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "161st"
+  },
+  {
+    "universidad": "Hartwick College",
+    "division": "D3",
+    "conferencia": "Empire 8",
+    "estado": "NY",
+    "coach": "Dale Rothenberger",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Dale Rothenberger"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "97th"
+  },
+  {
+    "universidad": "University of Redlands",
+    "division": "D3",
+    "conferencia": "SCIAC",
+    "estado": "CA",
+    "coach": "Kaitlyn Reny",
+    "email": "",
+    "fuentes": [
+      "NCSA"
+    ],
+    "coaches": [
+      "Kaitlyn Reny"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "81st"
+  },
+  {
+    "universidad": "Milligan University",
+    "division": "NAIA",
+    "conferencia": "Appalachian Athletic",
+    "estado": "TN",
+    "coach": "Spencer Scarth",
+    "email": "scscaerth@milligan.edu",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "coaches": [
+      "Spencer Scarth"
+    ],
+    "origenes": [
+      "GM US Univ"
+    ],
+    "rank_div": "5th"
+  },
+  {
+    "universidad": "University of Wisconsin - Milwaukee",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Kyle Clements",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Kyle Clements"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Wisconsin - Green Bay",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Alexander Lewis",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Alexander Lewis"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of the Incarnate Word",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Andrii Nikishenko",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Andrii Nikishenko"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Texas - Austin",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Eddie Reese",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Eddie Reese"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Florida",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Anthony Nesty",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Anthony Nesty"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Arizona",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Augie Busch",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Augie Busch"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Texas Christian University (TCU)",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "James Winchester",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "James Winchester"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Texas A&M University",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Jay Holmes",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Jay Holmes"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Stanford University",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Dan Schemmel",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Dan Schemmel"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Southern Methodist University - SMU",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Greg Rhodenbaugh",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Greg Rhodenbaugh"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Brigham Young University (BYU)",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Shari Skabelund",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Shari Skabelund"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "Virginia Tech",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Sergio Lopez Miro",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Sergio Lopez Miro"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Southern California",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Lea Maurer",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Lea Maurer"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of California - Berkeley",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "David Durden",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "David Durden"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Wisconsin",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Yuri Suguiyama",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Yuri Suguiyama"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  },
+  {
+    "universidad": "University of Notre Dame",
+    "division": "D1",
+    "conferencia": null,
+    "estado": "",
+    "coach": "Chris Lindauer",
+    "email": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "coaches": [
+      "Chris Lindauer"
+    ],
+    "origenes": [
+      "Contactos NCSA"
+    ],
+    "rank_div": ""
+  }
+]
