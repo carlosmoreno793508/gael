@@ -64,9 +64,17 @@ def main() -> None:
     _intentar("Tabla universidades (xlsx)",
               lambda: generar_xlsx(universidades, SALIDA / "universidades_objetivo.xlsx"))
 
-    # 2) Cartas de reclutamiento en lote
+    # 2) Cartas de reclutamiento en lote (perfil real desde data/gael.json)
     from documentos.carta_reclutamiento import DatosAtleta, generar_carta
+    perfil = {}
+    perfil_path = DATA / "gael.json"
+    if perfil_path.exists():
+        perfil = json.loads(perfil_path.read_text())
     atleta = DatosAtleta(
+        nombre=perfil.get("nombre", "Gael Moreno Sarmiento"),
+        graduacion=perfil.get("graduacion", "2027"),
+        nacionalidad=perfil.get("nacionalidad", "México"),
+        club=perfil.get("club", "La Loma Querétaro"),
         email="carlos.moreno@tidmexico.com.mx",
         mejores_tiempos=[f"{t['prueba']} {t['curso']} — {t['tiempo']}" for t in tiempos[:6]],
     )
