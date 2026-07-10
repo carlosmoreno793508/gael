@@ -22,11 +22,23 @@ gael/
 ├── ncsa/                     # integración con NCSA
 │   ├── scraper.py            #   login web con Selenium + lectura de actividad
 │   └── cloudflare.py         #   cookies de Chrome + curl_cffi (SwimCloud/WAF)
+├── natacion/                 # tiempos de SwimCloud
+│   ├── swimcloud.py          #   scraping del perfil público (vía WAF)
+│   └── registro.py           #   escribe registros/natacion.md
+├── whoop/                    # API no oficial de WHOOP (OAuth2)
+│   └── client.py             #   recuperación / HRV / RHR
+├── documentos/               # generación de documentos
+│   ├── tabla_universidades.py#   Word + Excel de universidades objetivo
+│   ├── carta_reclutamiento.py#   carta personalizada a un coach (Word)
+│   └── nutricion_pdf.py      #   plan de nutrición/suplementación (PDF)
 ├── scripts/                  # puntos de entrada
-│   ├── demo_clasificador.py  #   ← prueba TODO sin credenciales
+│   ├── demo_clasificador.py  #   ← prueba el análisis de correos (sin credenciales)
+│   ├── natacion_update.py    #   ← actualiza natacion.md (SwimCloud público)
+│   ├── whoop_update.py       #   actualiza whoop.md
+│   ├── generar_documentos.py #   genera docx/xlsx/pdf
 │   └── gmail_coaches_sync.py #   sync real de Gmail → registros/
-├── registros/                # salidas versionables (coaches.json, universidades.md)
-├── data/                     # datos de ejemplo (correos_ejemplo.json)
+├── registros/                # salidas versionables (natacion.md, whoop.md, peso.md, coaches.json…)
+├── data/                     # datos de ejemplo (correos, tiempos, whoop, universidades)
 ├── tests/                    # tests del clasificador
 ├── config.py                 # rutas + carga de .env
 ├── requirements.txt
@@ -75,8 +87,11 @@ python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Probar TODO el pipeline SIN credenciales:
-python3 scripts/demo_clasificador.py
+# Probar TODO SIN credenciales (usan datos de ejemplo de data/):
+python3 scripts/demo_clasificador.py    # clasifica correos → registros/coaches.json + universidades.md
+python3 scripts/natacion_update.py       # tiempos → registros/natacion.md
+python3 scripts/whoop_update.py          # recuperación → registros/whoop.md
+python3 scripts/generar_documentos.py    # cartas/tablas/nutrición → documentos_generados/
 
 # Correr los tests:
 python3 tests/test_clasificador.py
@@ -89,6 +104,8 @@ cp .env.example .env               # rellena NCSA_*, WHOOP_*, etc.
 
 python3 scripts/gmail_coaches_sync.py           # sync real de coaches
 python3 scripts/gmail_coaches_sync.py --query 'newer_than:6m from:.edu'
+python3 scripts/natacion_update.py --swimmer 1234567   # perfil real de SwimCloud
+python3 scripts/whoop_update.py --live                 # API real de WHOOP
 ```
 
 ChromeDriver debe coincidir con tu versión de Chrome:

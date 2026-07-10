@@ -27,3 +27,4 @@ Thumbs.db
 
 # Logs crudos de scraping (los procesados sí se versionan)
 registros/_raw/
+documentos_generados/

@@ -1,0 +1,9 @@
+[
+  {"prueba": "50 Free",   "curso": "LCM", "tiempo": "24.10", "fecha": "2025-07-15", "competencia": "Nacional Juvenil"},
+  {"prueba": "100 Free",  "curso": "LCM", "tiempo": "52.34", "fecha": "2025-07-16", "competencia": "Nacional Juvenil"},
+  {"prueba": "200 Free",  "curso": "LCM", "tiempo": "1:55.80", "fecha": "2025-07-17", "competencia": "Nacional Juvenil"},
+  {"prueba": "100 Fly",   "curso": "LCM", "tiempo": "56.90", "fecha": "2025-06-02", "competencia": "Copa CCCAN"},
+  {"prueba": "200 IM",    "curso": "LCM", "tiempo": "2:10.45", "fecha": "2025-06-03", "competencia": "Copa CCCAN"},
+  {"prueba": "100 Free",  "curso": "SCM", "tiempo": "50.88", "fecha": "2025-11-20", "competencia": "Copa Invierno"},
+  {"prueba": "200 Free",  "curso": "SCM", "tiempo": "1:52.60", "fecha": "2025-11-21", "competencia": "Copa Invierno"}
+]
