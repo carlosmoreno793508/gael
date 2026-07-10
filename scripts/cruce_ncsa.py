@@ -23,31 +23,22 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from config import DATA, REGISTROS  # noqa: E402
 
-FILLER = {"university", "college", "the", "of", "institute", "technology", "smu", "tcu", "byu"}
-
-
-def norm(nombre: str) -> str:
-    """Normaliza el nombre de una universidad para comparar.
-    Conserva tokens distintivos como 'state', 'austin', 'milwaukee' para no
-    confundir p.ej. 'University of Arizona' con 'Arizona State University'."""
-    n = nombre.lower()
-    n = re.sub(r"\(.*?\)", " ", n)          # quita paréntesis
-    n = re.sub(r"[^a-z ]", " ", n)          # quita puntuación
-    tokens = [t for t in n.split() if t not in FILLER]
-    return " ".join(sorted(tokens))
+from reclutamiento.universidades import norm  # noqa: E402
 
 
 def es_match(a: str, b: str) -> bool:
-    """Coinciden si comparten los mismos tokens distintivos, permitiendo que
-    uno omita el campus (subconjunto) SIN colapsar 'state'/'wesleyan' etc."""
+    """Coincidencia flexible SOLO para este cruce histórico: permite que un
+    nombre omita el campus (p.ej. 'University of Texas' ⊂ 'University of Texas -
+    Austin') sin colapsar universidades distintas que comparten raíz
+    ('Arizona' vs 'Arizona State', 'Virginia' vs 'West Virginia')."""
     ta, tb = set(norm(a).split()), set(norm(b).split())
     if ta == tb:
         return True
-    distintivos = {"state", "wesleyan", "milwaukee", "green", "bay", "baptist"}
+    distintivos = {"state", "wesleyan", "milwaukee", "green", "bay", "baptist",
+                   "west", "tech", "north", "south", "east"}
     menor, mayor = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
     if menor and menor < mayor:                       # subconjunto propio
-        extra = mayor - menor
-        return not (extra & distintivos)              # el campus extra no debe ser distintivo
+        return not ((mayor - menor) & distintivos)    # el campus extra no debe ser distintivo
     return False
 
 
@@ -58,7 +49,9 @@ def cargar(nombre):
 def main() -> None:
     gm = cargar("karla_gm_us_univ.json")
     contactos = cargar("karla_contactos_colegios.json")
-    nuestras = cargar("universidades_objetivo.json")
+    # Lista de ejemplo PREVIA (congelada), para documentar el antes/después de
+    # adoptar los datos reales de Karla como fuente oficial.
+    nuestras = cargar("universidades_ejemplo_legacy.json")
 
     karla = [{**u, "_origen": "GM US Univ"} for u in gm] + \
             [{**u, "_origen": "Contactos NCSA"} for u in contactos]
@@ -122,13 +115,16 @@ def main() -> None:
             por_fuente[f] = por_fuente.get(f, 0) + 1
 
     # --- Reporte Markdown ---
-    L = ["# Cruce NCSA (Karla) × nuestros datos", "",
-         f"- Universidades únicas tras deduplicar: **{len(maestro)}**",
+    L = ["# Cruce NCSA (Karla) × lista previa (ejemplo)", "",
+         "_Análisis del antes/después: compara la lista de ejemplo original "
+         "(coaches ficticios) contra el análisis real de Karla, que ya es la "
+         "fuente oficial (data/universidades_objetivo.json)._", "",
+         f"- Universidades únicas de Karla tras deduplicar: **{len(maestro)}**",
          f"- Por división: " + ", ".join(f"{k}: {v}" for k, v in sorted(por_div.items())),
          f"- Por fuente: " + ", ".join(f"{k}: {v}" for k, v in sorted(por_fuente.items())),
          "",
-         "## 1. Cruce con nuestras universidades objetivo", "",
-         "| Nuestra universidad | Nuestro coach | ¿En NCSA de Karla? | Coach real (Karla) | Conflicto |",
+         "## 1. Cruce con la lista de ejemplo previa", "",
+         "| Universidad (ejemplo) | Coach (ejemplo) | ¿En NCSA de Karla? | Coach real (Karla) | Conflicto |",
          "|---|---|---|---|---|"]
     for c in cruce:
         if c["match_karla"]:

@@ -27,6 +27,8 @@ gael/
 │   └── registro.py           #   escribe registros/natacion.md
 ├── whoop/                    # API no oficial de WHOOP (OAuth2)
 │   └── client.py             #   recuperación / HRV / RHR
+├── reclutamiento/            # universidades objetivo (fuentes reales)
+│   └── universidades.py      #   normaliza y fusiona NCSA + SwimCloud + Contactos
 ├── documentos/               # generación de documentos
 │   ├── tabla_universidades.py#   Word + Excel de universidades objetivo
 │   ├── carta_reclutamiento.py#   carta personalizada a un coach (Word)
@@ -36,9 +38,11 @@ gael/
 │   ├── natacion_update.py    #   ← actualiza natacion.md (SwimCloud público)
 │   ├── whoop_update.py       #   actualiza whoop.md
 │   ├── generar_documentos.py #   genera docx/xlsx/pdf
+│   ├── construir_objetivo.py #   ← construye la lista OFICIAL de universidades (datos de Karla)
+│   ├── cruce_ncsa.py         #   cruce histórico NCSA (Karla) × lista de ejemplo previa
 │   └── gmail_coaches_sync.py #   sync real de Gmail → registros/
-├── registros/                # salidas versionables (natacion.md, whoop.md, peso.md, coaches.json…)
-├── data/                     # datos de ejemplo (correos, tiempos, whoop, universidades)
+├── registros/                # salidas versionables (natacion.md, whoop.md, cruce_ncsa.md, universidades_maestro.json…)
+├── data/                     # fuentes reales (karla_*.json, universidades_objetivo.json) + ejemplos
 ├── tests/                    # tests del clasificador
 ├── config.py                 # rutas + carga de .env
 ├── requirements.txt
@@ -71,6 +75,21 @@ NCSA **no tiene API pública**. `ncsa/scraper.py` inicia sesión con **Selenium*
 actividad: qué coaches vieron el perfil, qué universidades marcaron interés,
 mensajes, etc. Los selectores están centralizados en `SELECTORES` para
 sobrevivir cambios de maquetado.
+
+### Universidades objetivo (fuente oficial)
+`data/universidades_objetivo.json` es la lista **oficial** de universidades: 50
+programas reales (D1/D2/D3/NAIA) provenientes del análisis de reclutamiento de
+Karla, unificando tres fuentes: **NCSA**, **SwimCloud** y **Contactos Colegios**
+(carpeta NCSA en Drive). Cada entrada trae coach principal, plantel de coaches,
+email, teléfono, conferencia, ranking divisional y de qué fuente salió.
+
+Se regenera de forma reproducible desde las fuentes crudas de Karla:
+```bash
+python3 scripts/construir_objetivo.py     # data/karla_*.json → universidades_objetivo.json
+```
+El script `scripts/cruce_ncsa.py` es el análisis histórico que documenta el
+antes/después de adoptar estos datos (la lista de ejemplo previa tenía coaches
+ficticios; ver `registros/cruce_ncsa.md`).
 
 ### 3. Cloudflare (SwimCloud)
 Sitios detrás de Cloudflare WAF se resuelven con `ncsa/cloudflare.py`: importa

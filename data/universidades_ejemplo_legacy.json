@@ -1,0 +1,7 @@
+[
+  {"universidad": "Stanford University", "division": "NCAA D1", "conferencia": "ACC", "estado": "CA", "prioridad": "alta", "coach": "Jane Doe", "email": "jdoe@athletics.stanford.edu", "estatus": "interesado"},
+  {"universidad": "University of Texas", "division": "NCAA D1", "conferencia": "SEC", "estado": "TX", "prioridad": "alta", "coach": "Mike Rivera", "email": "mrivera@go.utexas.edu", "estatus": "visita oficial"},
+  {"universidad": "Arizona State University", "division": "NCAA D1", "conferencia": "Big 12", "estado": "AZ", "prioridad": "media", "coach": null, "email": "admissions@asu.edu", "estatus": "contacto inicial"},
+  {"universidad": "Queens University of Charlotte", "division": "NCAA D2", "conferencia": "SAC", "estado": "NC", "prioridad": "media", "coach": "Sarah Lin", "email": "coach@queens.edu", "estatus": "cuestionario enviado"},
+  {"universidad": "Indian River State College", "division": "NJCAA (JUCO)", "conferencia": "-", "estado": "FL", "prioridad": "baja", "coach": null, "email": "info@indianriver.edu", "estatus": "contacto inicial"}
+]

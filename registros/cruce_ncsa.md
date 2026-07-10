@@ -1,12 +1,14 @@
-# Cruce NCSA (Karla) × nuestros datos
+# Cruce NCSA (Karla) × lista previa (ejemplo)
 
-- Universidades únicas tras deduplicar: **49**
-- Por división: D1: 29, D2: 7, D3: 12, NAIA: 1
-- Por fuente: Contactos Colegios: 18, NCSA: 17, SwimCloud: 16
+_Análisis del antes/después: compara la lista de ejemplo original (coaches ficticios) contra el análisis real de Karla, que ya es la fuente oficial (data/universidades_objetivo.json)._
 
-## 1. Cruce con nuestras universidades objetivo
+- Universidades únicas de Karla tras deduplicar: **50**
+- Por división: D1: 30, D2: 7, D3: 12, NAIA: 1
+- Por fuente: Contactos Colegios: 19, NCSA: 17, SwimCloud: 16
 
-| Nuestra universidad | Nuestro coach | ¿En NCSA de Karla? | Coach real (Karla) | Conflicto |
+## 1. Cruce con la lista de ejemplo previa
+
+| Universidad (ejemplo) | Coach (ejemplo) | ¿En NCSA de Karla? | Coach real (Karla) | Conflicto |
 |---|---|---|---|---|
 | Stanford University | Jane Doe | ✅ Contactos Colegios | Dan Schemmel | ⚠️ SÍ |
 | University of Texas | Mike Rivera | ✅ Contactos Colegios | Eddie Reese | ⚠️ SÍ |
@@ -36,6 +38,7 @@
 | University of Florida | D1 | - | Anthony Nesty | Contactos Colegios |
 | University of Notre Dame | D1 | - | Chris Lindauer | Contactos Colegios |
 | University of Southern California | D1 | - | Lea Maurer | Contactos Colegios |
+| University of Virginia | D1 | - | Todd DeSorbo | Contactos Colegios |
 | University of Wisconsin | D1 | - | Yuri Suguiyama | Contactos Colegios |
 | University of Wisconsin - Green Bay | D1 | - | Alexander Lewis | Contactos Colegios |
 | University of Wisconsin - Milwaukee | D1 | - | Kyle Clements | Contactos Colegios |
