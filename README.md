@@ -28,7 +28,8 @@ gael/
 ├── whoop/                    # API no oficial de WHOOP (OAuth2)
 │   └── client.py             #   recuperación / HRV / RHR
 ├── reclutamiento/            # universidades objetivo (fuentes reales)
-│   └── universidades.py      #   normaliza y fusiona NCSA + SwimCloud + Contactos
+│   ├── universidades.py      #   normaliza y fusiona NCSA + SwimCloud + Contactos
+│   └── priorizar.py          #   heurística de prioridad (división + ranking + beca)
 ├── documentos/               # generación de documentos
 │   ├── tabla_universidades.py#   Word + Excel de universidades objetivo
 │   ├── carta_reclutamiento.py#   carta personalizada a un coach (Word)
@@ -39,6 +40,7 @@ gael/
 │   ├── whoop_update.py       #   actualiza whoop.md
 │   ├── generar_documentos.py #   genera docx/xlsx/pdf
 │   ├── construir_objetivo.py #   ← construye la lista OFICIAL de universidades (datos de Karla)
+│   ├── priorizar_universidades.py# prioriza y rellena prioridad → registros/priorizacion.md
 │   ├── cruce_ncsa.py         #   cruce histórico NCSA (Karla) × lista de ejemplo previa
 │   └── gmail_coaches_sync.py #   sync real de Gmail → registros/
 ├── registros/                # salidas versionables (natacion.md, whoop.md, cruce_ncsa.md, universidades_maestro.json…)
@@ -106,11 +108,15 @@ python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Probar TODO SIN credenciales (usan datos de ejemplo de data/):
+# Pipeline de universidades (datos reales de Karla, sin credenciales):
+python3 scripts/construir_objetivo.py       # karla_*.json → universidades_objetivo.json (50)
+python3 scripts/priorizar_universidades.py  # rellena prioridad → registros/priorizacion.md
+python3 scripts/generar_documentos.py       # tabla + cartas (prioridad alta) → documentos_generados/
+
+# Otros (datos de ejemplo de data/):
 python3 scripts/demo_clasificador.py    # clasifica correos → registros/coaches.json + universidades.md
 python3 scripts/natacion_update.py       # tiempos → registros/natacion.md
 python3 scripts/whoop_update.py          # recuperación → registros/whoop.md
-python3 scripts/generar_documentos.py    # cartas/tablas/nutrición → documentos_generados/
 
 # Correr los tests:
 python3 tests/test_clasificador.py
@@ -133,6 +139,10 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ---
 
 ## Pendiente
+- **Fit por prueba:** cruzar los tiempos reales de Gael contra los estándares de
+  tiempo de reclutamiento de cada universidad (la priorización actual usa solo
+  división + ranking del equipo; ver `reclutamiento/priorizar.py`).
+- Importar los tiempos reales desde `Tiempos Gael Moreno.xlsx` (hoy usa ejemplo).
 - Activar `gmail_coaches_sync.py` por **cron** (aún no automático).
 - Parser de MeetMobile (endpoints inestables).
 

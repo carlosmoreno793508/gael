@@ -17,8 +17,8 @@
       "Contactos Colegios",
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Cincinnati",
@@ -36,8 +36,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Cornell University",
@@ -55,8 +55,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Delaware",
@@ -74,8 +74,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Southern Illinois University",
@@ -93,8 +93,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "West Virginia University",
@@ -114,8 +114,8 @@
       "Contactos Colegios",
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "baja",
+    "estatus": "por contactar"
   },
   {
     "universidad": "California Baptist University",
@@ -133,8 +133,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Georgetown University",
@@ -152,8 +152,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "South Dakota State University",
@@ -171,8 +171,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "La Salle University",
@@ -190,8 +190,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Boston University",
@@ -209,8 +209,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Lehigh University",
@@ -228,8 +228,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "College of the Holy Cross",
@@ -247,8 +247,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Brigham Young University (BYU)",
@@ -266,8 +266,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": "",
+    "prioridad": "media",
+    "estatus": "por contactar",
     "requisitos": "Min ACT 20, Min SAT 1000, Min GPA 3.0/4.0"
   },
   {
@@ -286,8 +286,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Stanford University",
@@ -305,8 +305,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Texas A&M University",
@@ -324,8 +324,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Texas Christian University (TCU)",
@@ -343,8 +343,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Arizona",
@@ -362,8 +362,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of California - Berkeley",
@@ -381,8 +381,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Florida",
@@ -400,8 +400,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Notre Dame",
@@ -419,8 +419,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Southern California",
@@ -438,8 +438,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Texas - Austin",
@@ -457,8 +457,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Virginia",
@@ -476,8 +476,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Wisconsin",
@@ -495,8 +495,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Wisconsin - Green Bay",
@@ -514,8 +514,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Wisconsin - Milwaukee",
@@ -533,8 +533,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of the Incarnate Word",
@@ -552,8 +552,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Virginia Tech",
@@ -571,8 +571,8 @@
     "fuentes": [
       "Contactos Colegios"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Colorado Mesa University",
@@ -590,8 +590,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Grand Valley State University",
@@ -609,8 +609,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Findlay",
@@ -628,8 +628,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Emmanuel University - Georgia",
@@ -647,8 +647,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Barry University",
@@ -666,8 +666,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Wheeling University",
@@ -685,8 +685,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "West Virginia Wesleyan College",
@@ -704,8 +704,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Chicago",
@@ -723,8 +723,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Denison University",
@@ -742,8 +742,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Trinity University",
@@ -761,8 +761,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Rose-Hulman Institute of Technology",
@@ -780,8 +780,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "University of Redlands",
@@ -799,8 +799,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Hartwick College",
@@ -818,8 +818,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Whittier College",
@@ -837,8 +837,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "McMurry University",
@@ -856,8 +856,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Millikin University",
@@ -875,8 +875,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Carroll University",
@@ -894,8 +894,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "North Central College",
@@ -913,8 +913,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Lycoming College",
@@ -932,8 +932,8 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "alta",
+    "estatus": "por contactar"
   },
   {
     "universidad": "Milligan University",
@@ -951,7 +951,7 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "",
-    "estatus": ""
+    "prioridad": "media",
+    "estatus": "por contactar"
   }
 ]
