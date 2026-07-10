@@ -1,0 +1,63 @@
+{
+  "nadador": "Gael Moreno Sarmiento",
+  "fuente": "Mejores marcas (FINA) convertidas a SCY desde tiempos_gael_pb.json",
+  "tiempos": [
+    {
+      "evento": "200 Free",
+      "curso": "SCY",
+      "tiempo": "2:20.39",
+      "origen": "2:39.35 LCM",
+      "puntos": 259
+    },
+    {
+      "evento": "100 Free",
+      "curso": "SCY",
+      "tiempo": "1:05.64",
+      "origen": "1:13.92 LCM",
+      "puntos": 247
+    },
+    {
+      "evento": "50 Free",
+      "curso": "SCY",
+      "tiempo": "30.06",
+      "origen": "33.55 LCM",
+      "puntos": 242
+    },
+    {
+      "evento": "200 IM",
+      "curso": "SCY",
+      "tiempo": "2:44.77",
+      "origen": "3:06.18 LCM",
+      "puntos": 230
+    },
+    {
+      "evento": "100 Back",
+      "curso": "SCY",
+      "tiempo": "1:15.95",
+      "origen": "1:25.53 LCM",
+      "puntos": 220
+    },
+    {
+      "evento": "50 Fly",
+      "curso": "SCY",
+      "tiempo": "33.99",
+      "origen": "37.93 LCM",
+      "puntos": 202
+    },
+    {
+      "evento": "50 Back",
+      "curso": "SCY",
+      "tiempo": "36.01",
+      "origen": "40.19 LCM",
+      "puntos": 201
+    },
+    {
+      "evento": "50 Breast",
+      "curso": "SCY",
+      "tiempo": "44.47",
+      "origen": "49.14 LCM",
+      "puntos": 147
+    }
+  ],
+  "ADVERTENCIA": "Estos PB provienen de 'PB Gael Moreno.xlsx' de Karla y son de 2017-2018 (Gael ~11-12 años, categorías S8/S9). NO son sus tiempos actuales. Reemplazar por marcas vigentes antes de usar el fit para decisiones."
+}

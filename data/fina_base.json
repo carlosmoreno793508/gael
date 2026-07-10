@@ -1,0 +1,20 @@
+{
+  "nota": "Tiempos base FINA (varonil) para calcular puntos: puntos = 1000*(base/tiempo)^3. Valores ~2024 (nivel récord mundial), EDITABLES. Verificar contra la tabla FINA oficial vigente si se requiere precisión fina. Cuando SwimCloud ya provee 'puntos', se usan esos y esta tabla no interviene.",
+  "anio_base": 2024,
+  "LCM": {
+    "50 Free": 20.91, "100 Free": 46.40, "200 Free": 101.60, "400 Free": 219.05,
+    "800 Free": 452.12, "1500 Free": 870.67,
+    "50 Back": 23.55, "100 Back": 51.60, "200 Back": 111.92,
+    "50 Breast": 25.95, "100 Breast": 56.88, "200 Breast": 125.48,
+    "50 Fly": 22.27, "100 Fly": 49.45, "200 Fly": 110.34,
+    "200 IM": 114.00, "400 IM": 243.84
+  },
+  "SCM": {
+    "50 Free": 19.90, "100 Free": 44.84, "200 Free": 98.61, "400 Free": 212.25,
+    "800 Free": 443.42, "1500 Free": 846.88,
+    "50 Back": 22.11, "100 Back": 48.33, "200 Back": 105.63,
+    "50 Breast": 24.95, "100 Breast": 55.28, "200 Breast": 120.16,
+    "50 Fly": 21.32, "100 Fly": 47.78, "200 Fly": 106.85,
+    "100 IM": 49.28, "200 IM": 109.63, "400 IM": 234.81
+  }
+}

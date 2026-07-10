@@ -25,6 +25,7 @@ gael/
 ├── natacion/                 # tiempos de SwimCloud
 │   ├── swimcloud.py          #   scraping del perfil público (vía WAF)
 │   ├── registro.py           #   escribe registros/natacion.md
+│   ├── conversion.py         #   mejor marca por puntos FINA (CL/CC) → SCY
 │   └── fit.py                #   fit por prueba: tiempos vs estándares NCSA
 ├── whoop/                    # API no oficial de WHOOP (OAuth2)
 │   └── client.py             #   recuperación / HRV / RHR
@@ -114,9 +115,13 @@ python3 scripts/construir_objetivo.py       # karla_*.json → universidades_obj
 python3 scripts/priorizar_universidades.py  # rellena prioridad → registros/priorizacion.md
 python3 scripts/generar_documentos.py       # tabla + cartas (prioridad alta) → documentos_generados/
 
+# Pipeline de tiempos y fit (mejor marca FINA CL/CC → SCY → vs estándares NCSA):
+python3 scripts/mejores_tiempos_scy.py --tiempos data/tiempos_gael_pb.json  # → data/tiempos_gael_scy.json
+python3 scripts/fit_por_prueba.py --tiempos data/tiempos_gael_scy.json      # → registros/fit_por_prueba.md
+
 # Otros (datos de ejemplo de data/):
 python3 scripts/demo_clasificador.py    # clasifica correos → registros/coaches.json + universidades.md
-python3 scripts/natacion_update.py       # tiempos → registros/natacion.md
+python3 scripts/natacion_update.py --ejemplo  # tiempos → registros/natacion.md
 python3 scripts/whoop_update.py          # recuperación → registros/whoop.md
 
 # Correr los tests:

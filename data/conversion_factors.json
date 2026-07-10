@@ -1,0 +1,17 @@
+{
+  "nota": "Factores aproximados para convertir a Yardas Cortas (SCY). SCY_seg = tiempo_seg * factor. Basados en factores tipo USA Swimming (aprox). EDITABLES. Solo pruebas con equivalente limpio en yardas; distancias que cambian de metraje (400 LCM↔500 SCY, 1500 LCM↔1650 SCY) se marcan aparte.",
+  "LCM_to_SCY": {
+    "50 Free": 0.896, "100 Free": 0.888, "200 Free": 0.881,
+    "50 Back": 0.896, "100 Back": 0.888, "200 Back": 0.881,
+    "50 Breast": 0.905, "100 Breast": 0.897, "200 Breast": 0.889,
+    "50 Fly": 0.896, "100 Fly": 0.888, "200 Fly": 0.881,
+    "200 IM": 0.885, "400 IM": 0.885
+  },
+  "SCM_to_SCY": {
+    "50 Free": 0.900, "100 Free": 0.895, "200 Free": 0.891,
+    "50 Back": 0.900, "100 Back": 0.895, "200 Back": 0.891,
+    "50 Breast": 0.908, "100 Breast": 0.902, "200 Breast": 0.897,
+    "50 Fly": 0.900, "100 Fly": 0.895, "200 Fly": 0.891,
+    "100 IM": 0.895, "200 IM": 0.893, "400 IM": 0.893
+  }
+}
