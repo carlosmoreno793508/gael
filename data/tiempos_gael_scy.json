@@ -1,63 +1,125 @@
 {
   "nadador": "Gael Moreno Sarmiento",
-  "fuente": "Mejores marcas (FINA) convertidas a SCY desde tiempos_gael_pb.json",
+  "fuente": "Mejores marcas (FINA) convertidas a SCY desde tiempos_gael_actuales.json",
   "tiempos": [
-    {
-      "evento": "200 Free",
-      "curso": "SCY",
-      "tiempo": "2:20.39",
-      "origen": "2:39.35 LCM",
-      "puntos": 259
-    },
-    {
-      "evento": "100 Free",
-      "curso": "SCY",
-      "tiempo": "1:05.64",
-      "origen": "1:13.92 LCM",
-      "puntos": 247
-    },
     {
       "evento": "50 Free",
       "curso": "SCY",
-      "tiempo": "30.06",
-      "origen": "33.55 LCM",
-      "puntos": 242
-    },
-    {
-      "evento": "200 IM",
-      "curso": "SCY",
-      "tiempo": "2:44.77",
-      "origen": "3:06.18 LCM",
-      "puntos": 230
-    },
-    {
-      "evento": "100 Back",
-      "curso": "SCY",
-      "tiempo": "1:15.95",
-      "origen": "1:25.53 LCM",
-      "puntos": 220
+      "tiempo": "21.54",
+      "origen": "21.54 SCY",
+      "puntos": null
     },
     {
       "evento": "50 Fly",
       "curso": "SCY",
-      "tiempo": "33.99",
-      "origen": "37.93 LCM",
-      "puntos": 202
+      "tiempo": "24.05",
+      "origen": "24.05 SCY",
+      "puntos": null
     },
     {
       "evento": "50 Back",
       "curso": "SCY",
-      "tiempo": "36.01",
-      "origen": "40.19 LCM",
-      "puntos": 201
+      "tiempo": "24.82",
+      "origen": "24.82 SCY",
+      "puntos": null
     },
     {
       "evento": "50 Breast",
       "curso": "SCY",
-      "tiempo": "44.47",
-      "origen": "49.14 LCM",
-      "puntos": 147
+      "tiempo": "31.79",
+      "origen": "31.79 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "100 Free",
+      "curso": "SCY",
+      "tiempo": "47.18",
+      "origen": "47.18 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "100 Back",
+      "curso": "SCY",
+      "tiempo": "50.98",
+      "origen": "50.98 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "100 Fly",
+      "curso": "SCY",
+      "tiempo": "51.15",
+      "origen": "51.15 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "100 IM",
+      "curso": "SCY",
+      "tiempo": "55.94",
+      "origen": "55.94 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "100 Breast",
+      "curso": "SCY",
+      "tiempo": "1:07.25",
+      "origen": "1:07.25 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "200 Free",
+      "curso": "SCY",
+      "tiempo": "1:43.78",
+      "origen": "1:43.78 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "200 Back",
+      "curso": "SCY",
+      "tiempo": "1:53.88",
+      "origen": "1:53.88 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "200 IM",
+      "curso": "SCY",
+      "tiempo": "1:58.81",
+      "origen": "1:58.81 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "200 Fly",
+      "curso": "SCY",
+      "tiempo": "2:06.08",
+      "origen": "2:06.08 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "400 Free",
+      "curso": "SCY",
+      "tiempo": "3:41.92",
+      "origen": "4:07.95 SCM",
+      "puntos": 627
+    },
+    {
+      "evento": "400 IM",
+      "curso": "SCY",
+      "tiempo": "4:18.62",
+      "origen": "4:18.62 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "500 Free",
+      "curso": "SCY",
+      "tiempo": "4:56.86",
+      "origen": "4:56.86 SCY",
+      "puntos": null
+    },
+    {
+      "evento": "800 Free",
+      "curso": "SCY",
+      "tiempo": "7:42.42",
+      "origen": "8:39.57 SCM",
+      "puntos": 622
     }
-  ],
-  "ADVERTENCIA": "Estos PB provienen de 'PB Gael Moreno.xlsx' de Karla y son de 2017-2018 (Gael ~11-12 años, categorías S8/S9). NO son sus tiempos actuales. Reemplazar por marcas vigentes antes de usar el fit para decisiones."
+  ]
 }

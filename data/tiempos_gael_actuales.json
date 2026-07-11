@@ -1,0 +1,53 @@
+{
+  "nadador": "Gael Moreno Sarmiento",
+  "genero": "Men",
+  "fuente": "SwimCloud swimmer 912487 (pestaña Times), tiempos vigentes 2025-2026 salvo los marcados",
+  "tiempos": [
+    {"evento": "50 Free",   "curso": "SCY", "tiempo": "21.54",   "fecha": "2025-01-18"},
+    {"evento": "50 Free",   "curso": "SCM", "tiempo": "22.67",   "fecha": "2025-12-17"},
+    {"evento": "50 Free",   "curso": "LCM", "tiempo": "23.81",   "fecha": "2026-05-09"},
+    {"evento": "100 Free",  "curso": "SCY", "tiempo": "47.18",   "fecha": "2025-01-18"},
+    {"evento": "100 Free",  "curso": "SCM", "tiempo": "51.13",   "fecha": "2025-12-14"},
+    {"evento": "100 Free",  "curso": "LCM", "tiempo": "52.15",   "fecha": "2026-05-05"},
+    {"evento": "200 Free",  "curso": "SCY", "tiempo": "1:43.78", "fecha": "2025-01-18"},
+    {"evento": "200 Free",  "curso": "SCM", "tiempo": "1:57.05", "fecha": "2025-11-21"},
+    {"evento": "200 Free",  "curso": "LCM", "tiempo": "1:56.98", "fecha": "2025-06-01"},
+    {"evento": "400 Free",  "curso": "SCM", "tiempo": "4:07.95", "fecha": "2025-10-24"},
+    {"evento": "400 Free",  "curso": "LCM", "tiempo": "4:36.55", "fecha": "2020-03-05"},
+    {"evento": "500 Free",  "curso": "SCY", "tiempo": "4:56.86", "fecha": "2022-09-18"},
+    {"evento": "800 Free",  "curso": "SCM", "tiempo": "8:39.57", "fecha": "2025-10-24"},
+    {"evento": "1500 Free", "curso": "SCM", "tiempo": "17:20.70","fecha": "2022-11-20"},
+
+    {"evento": "50 Back",   "curso": "SCY", "tiempo": "24.82",   "fecha": "2024-01-14"},
+    {"evento": "50 Back",   "curso": "SCM", "tiempo": "24.90",   "fecha": "2025-12-16"},
+    {"evento": "50 Back",   "curso": "LCM", "tiempo": "25.95",   "fecha": "2025-06-01"},
+    {"evento": "100 Back",  "curso": "SCY", "tiempo": "50.98",   "fecha": "2025-01-18"},
+    {"evento": "100 Back",  "curso": "SCM", "tiempo": "53.62",   "fecha": "2025-12-15"},
+    {"evento": "100 Back",  "curso": "LCM", "tiempo": "55.98",   "fecha": "2026-04-10"},
+    {"evento": "200 Back",  "curso": "SCY", "tiempo": "1:53.88", "fecha": "2023-03-05"},
+    {"evento": "200 Back",  "curso": "SCM", "tiempo": "1:58.61", "fecha": "2025-12-17"},
+    {"evento": "200 Back",  "curso": "LCM", "tiempo": "2:04.56", "fecha": "2026-04-11"},
+
+    {"evento": "50 Breast", "curso": "SCY", "tiempo": "31.79",   "fecha": "2022-09-16"},
+    {"evento": "50 Breast", "curso": "LCM", "tiempo": "37.19",   "fecha": "2022-05-07"},
+    {"evento": "100 Breast","curso": "SCY", "tiempo": "1:07.25", "fecha": "2022-09-16"},
+    {"evento": "100 Breast","curso": "SCM", "tiempo": "1:18.59", "fecha": "2021-09-25"},
+
+    {"evento": "50 Fly",    "curso": "SCY", "tiempo": "24.05",   "fecha": "2024-01-13"},
+    {"evento": "50 Fly",    "curso": "SCM", "tiempo": "24.43",   "fecha": "2025-12-14"},
+    {"evento": "50 Fly",    "curso": "LCM", "tiempo": "25.11",   "fecha": "2026-05-06"},
+    {"evento": "100 Fly",   "curso": "SCY", "tiempo": "51.15",   "fecha": "2024-01-13"},
+    {"evento": "100 Fly",   "curso": "SCM", "tiempo": "55.16",   "fecha": "2025-12-17"},
+    {"evento": "100 Fly",   "curso": "LCM", "tiempo": "56.01",   "fecha": "2026-04-09"},
+    {"evento": "200 Fly",   "curso": "SCY", "tiempo": "2:06.08", "fecha": "2022-09-16"},
+
+    {"evento": "100 IM",    "curso": "SCY", "tiempo": "55.94",   "fecha": "2023-01-14"},
+    {"evento": "100 IM",    "curso": "SCM", "tiempo": "59.36",   "fecha": "2024-10-18"},
+    {"evento": "200 IM",    "curso": "SCY", "tiempo": "1:58.81", "fecha": "2022-10-23"},
+    {"evento": "200 IM",    "curso": "SCM", "tiempo": "2:13.66", "fecha": "2022-09-30"},
+    {"evento": "200 IM",    "curso": "LCM", "tiempo": "2:09.82", "fecha": "2025-06-01"},
+    {"evento": "400 IM",    "curso": "SCY", "tiempo": "4:18.62", "fecha": "2022-09-17"},
+    {"evento": "400 IM",    "curso": "SCM", "tiempo": "4:40.51", "fecha": "2025-10-24"},
+    {"evento": "400 IM",    "curso": "LCM", "tiempo": "4:59.53", "fecha": "2022-12-19"}
+  ]
+}

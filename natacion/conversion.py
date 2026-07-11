@@ -61,38 +61,36 @@ class MejorMarca:
 
 
 def mejor_por_evento(tiempos: list[dict], base: dict, factores: dict) -> list[MejorMarca]:
-    """Agrupa por prueba y devuelve, por cada una, la marca de mayor puntaje FINA
-    convertida a SCY. `tiempos`: dicts con evento/curso/tiempo (y opcional 'puntos')."""
-    # 1) puntuar cada marca
-    puntuadas = []
+    """Por prueba, elige la MEJOR marca expresada en SCY: su tiempo SCY directo,
+    o el mejor de CL(LCM)/CC(SCM) convertido a SCY — lo que resulte más rápido.
+    `tiempos`: dicts con evento/curso/tiempo (y opcional 'puntos')."""
+    # 1) para cada marca: su equivalente en SCY y sus puntos FINA (informativo)
+    candidatas: dict[str, list[tuple]] = {}
     for t in tiempos:
         evento = canonical_evento(t.get("evento", "")) or t.get("evento", "")
         curso = t.get("curso", "")
         seg = parse_tiempo(t.get("tiempo", ""))
+        scy = to_scy(seg, evento, curso, factores)
+        if scy is None:
+            continue  # curso sin factor de conversión para esta prueba
         pts = t.get("puntos")
         if pts is None:
             pts = fina_points(seg, evento, curso, base)
-        puntuadas.append((evento, curso, seg, pts))
+        candidatas.setdefault(evento, []).append((curso, seg, scy, pts))
 
-    # 2) mejor por evento (mayor puntaje; empate: menor tiempo convertido)
-    mejor: dict[str, tuple] = {}
-    for evento, curso, seg, pts in puntuadas:
-        if pts is None:
-            continue
-        if evento not in mejor or pts > mejor[evento][3]:
-            mejor[evento] = (evento, curso, seg, pts)
-
-    # 3) convertir a SCY
+    # 2) por prueba: preferir un tiempo SCY REAL (verdad de campo) si existe;
+    #    solo si no hay SCY, usar el mejor metraje convertido. Evita que factores
+    #    de conversión imperfectos produzcan tiempos irreales.
     salida: list[MejorMarca] = []
-    for evento, curso, seg, pts in mejor.values():
-        scy = to_scy(seg, evento, curso, factores)
-        if scy is None:
-            continue
+    for evento, lista in candidatas.items():
+        directos = [c for c in lista if c[0] == "SCY"]
+        pool = directos if directos else lista
+        curso, seg, scy, pts = min(pool, key=lambda x: x[2])
         salida.append(MejorMarca(
             evento=evento, curso_origen=curso, tiempo_origen=formato_tiempo(seg),
             puntos=pts, tiempo_scy=formato_tiempo(scy), scy_segundos=round(scy, 2),
         ))
-    salida.sort(key=lambda m: -(m.puntos or 0))
+    salida.sort(key=lambda m: m.scy_segundos)
     return salida
 
 
