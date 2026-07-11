@@ -17,8 +17,9 @@
       "Contactos Colegios",
       "SwimCloud"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "University of Cincinnati",
@@ -36,8 +37,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "Cornell University",
@@ -55,8 +57,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "University of Delaware",
@@ -74,8 +77,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "Southern Illinois University",
@@ -93,8 +97,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "West Virginia University",
@@ -114,8 +119,9 @@
       "Contactos Colegios",
       "SwimCloud"
     ],
-    "prioridad": "baja",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "California Baptist University",
@@ -133,8 +139,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "Georgetown University",
@@ -152,8 +159,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "South Dakota State University",
@@ -171,8 +179,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "La Salle University",
@@ -190,8 +199,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "Boston University",
@@ -209,8 +219,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
   },
   {
     "universidad": "Lehigh University",
@@ -229,7 +240,8 @@
       "NCSA"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Reclutable, aporta pronto (con beca)"
   },
   {
     "universidad": "College of the Holy Cross",
@@ -248,7 +260,8 @@
       "SwimCloud"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Reclutable, aporta pronto (con beca)"
   },
   {
     "universidad": "Brigham Young University (BYU)",
@@ -268,7 +281,8 @@
     ],
     "prioridad": "media",
     "estatus": "por contactar",
-    "requisitos": "Min ACT 20, Min SAT 1000, Min GPA 3.0/4.0"
+    "requisitos": "Min ACT 20, Min SAT 1000, Min GPA 3.0/4.0",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Southern Methodist University - SMU",
@@ -287,7 +301,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Stanford University",
@@ -306,7 +321,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Texas A&M University",
@@ -325,7 +341,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Texas Christian University (TCU)",
@@ -344,7 +361,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Arizona",
@@ -363,7 +381,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of California - Berkeley",
@@ -382,7 +401,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Florida",
@@ -401,7 +421,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Notre Dame",
@@ -420,7 +441,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Southern California",
@@ -439,7 +461,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Texas - Austin",
@@ -458,7 +481,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Virginia",
@@ -477,7 +501,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Wisconsin",
@@ -496,7 +521,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Wisconsin - Green Bay",
@@ -515,7 +541,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of Wisconsin - Milwaukee",
@@ -534,7 +561,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "University of the Incarnate Word",
@@ -553,7 +581,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Virginia Tech",
@@ -572,7 +601,8 @@
       "Contactos Colegios"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
   },
   {
     "universidad": "Colorado Mesa University",
@@ -590,8 +620,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "Grand Valley State University",
@@ -609,8 +640,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "University of Findlay",
@@ -628,8 +660,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "Emmanuel University - Georgia",
@@ -648,7 +681,8 @@
       "NCSA"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "Barry University",
@@ -667,7 +701,8 @@
       "SwimCloud"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "Wheeling University",
@@ -686,7 +721,8 @@
       "NCSA"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "West Virginia Wesleyan College",
@@ -705,7 +741,8 @@
       "NCSA"
     ],
     "prioridad": "alta",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
   },
   {
     "universidad": "University of Chicago",
@@ -724,7 +761,8 @@
       "NCSA"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Denison University",
@@ -743,7 +781,8 @@
       "SwimCloud"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Trinity University",
@@ -762,7 +801,8 @@
       "SwimCloud"
     ],
     "prioridad": "media",
-    "estatus": "por contactar"
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Rose-Hulman Institute of Technology",
@@ -780,8 +820,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "University of Redlands",
@@ -799,8 +840,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Hartwick College",
@@ -818,8 +860,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Whittier College",
@@ -837,8 +880,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "McMurry University",
@@ -856,8 +900,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Millikin University",
@@ -875,8 +920,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Carroll University",
@@ -894,8 +940,9 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "North Central College",
@@ -913,8 +960,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Lycoming College",
@@ -932,8 +980,9 @@
     "fuentes": [
       "NCSA"
     ],
-    "prioridad": "alta",
-    "estatus": "por contactar"
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
   },
   {
     "universidad": "Milligan University",
@@ -951,7 +1000,8 @@
     "fuentes": [
       "SwimCloud"
     ],
-    "prioridad": "media",
-    "estatus": "por contactar"
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (con beca)"
   }
 ]
