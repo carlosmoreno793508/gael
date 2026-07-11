@@ -32,6 +32,17 @@ def main() -> None:
     tiempos = datos.get("pb") or datos.get("tiempos") or []
     advertencia = datos.get("ADVERTENCIA")
 
+    # SCY directo por prueba (referencia; suele ser marca de carga/entrenamiento)
+    from natacion.fit import canonical_evento, parse_tiempo, formato_tiempo
+    scy_directo: dict[str, str] = {}
+    for t in tiempos:
+        if t.get("curso") == "SCY":
+            ev = canonical_evento(t.get("evento", "")) or t.get("evento", "")
+            seg = parse_tiempo(t.get("tiempo", ""))
+            prev = scy_directo.get(ev)
+            if prev is None or seg < parse_tiempo(prev):
+                scy_directo[ev] = formato_tiempo(seg)
+
     marcas = mejores_marcas_scy(tiempos)
 
     # Guardar en formato de fit (curso SCY)
@@ -50,13 +61,16 @@ def main() -> None:
     L = ["# Mejores marcas por prueba → convertidas a SCY (yardas)", ""]
     if advertencia:
         L += [f"> ⚠️ **{advertencia}**", ""]
-    L += ["_Por prueba se toma la marca de mayor puntaje FINA (CL o CC) y se "
-          "convierte a SCY con los factores de data/conversion_factors.json._", "",
-          "| Prueba | Mejor marca (origen) | Curso | Puntos FINA | → SCY (yds) |",
-          "|---|---|---|---|---|"]
+    L += ["_Por prueba se toma la mejor marca (CL/CC/SCY) y se expresa en SCY. Las "
+          "marcas métricas suelen ser descendidas (tapered); el 'SCY directo' suele "
+          "ser de carga de temporada. Conversiones aproximadas (factores editables)._", "",
+          "| Prueba | Mejor marca (origen) | Curso | Puntos FINA | → SCY (yds) | SCY directo (ref.) |",
+          "|---|---|---|---|---|---|"]
     for m in marcas:
+        ref = scy_directo.get(m.evento, "-")
+        conv = "" if m.curso_origen == "SCY" else "≈ "
         L.append(f"| {m.evento} | {m.tiempo_origen} | {m.curso_origen} | {m.puntos or '-'} "
-                 f"| **{m.tiempo_scy}** |")
+                 f"| **{conv}{m.tiempo_scy}** | {ref} |")
     (REGISTROS / "mejores_tiempos_scy.md").write_text("\n".join(L) + "\n")
 
     print(f"{len(marcas)} pruebas convertidas a SCY.")

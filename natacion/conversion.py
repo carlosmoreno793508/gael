@@ -78,14 +78,12 @@ def mejor_por_evento(tiempos: list[dict], base: dict, factores: dict) -> list[Me
             pts = fina_points(seg, evento, curso, base)
         candidatas.setdefault(evento, []).append((curso, seg, scy, pts))
 
-    # 2) por prueba: preferir un tiempo SCY REAL (verdad de campo) si existe;
-    #    solo si no hay SCY, usar el mejor metraje convertido. Evita que factores
-    #    de conversión imperfectos produzcan tiempos irreales.
+    # 2) por prueba: la MEJOR marca en SCY-equivalente (la más rápida) entre todos
+    #    los cursos. Así las marcas métricas descendidas (tapered) ganan cuando
+    #    superan al SCY nadado en carga de temporada.
     salida: list[MejorMarca] = []
     for evento, lista in candidatas.items():
-        directos = [c for c in lista if c[0] == "SCY"]
-        pool = directos if directos else lista
-        curso, seg, scy, pts = min(pool, key=lambda x: x[2])
+        curso, seg, scy, pts = min(lista, key=lambda x: x[2])
         salida.append(MejorMarca(
             evento=evento, curso_origen=curso, tiempo_origen=formato_tiempo(seg),
             puntos=pts, tiempo_scy=formato_tiempo(scy), scy_segundos=round(scy, 2),

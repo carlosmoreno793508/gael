@@ -5,23 +5,23 @@
     {
       "evento": "50 Free",
       "curso": "SCY",
-      "tiempo": "21.54",
-      "origen": "21.54 SCY",
-      "puntos": null
+      "tiempo": "21.20",
+      "origen": "22.67 SCM",
+      "puntos": 676
     },
     {
       "evento": "50 Fly",
       "curso": "SCY",
-      "tiempo": "24.05",
-      "origen": "24.05 SCY",
-      "puntos": null
+      "tiempo": "22.72",
+      "origen": "25.11 LCM",
+      "puntos": 698
     },
     {
       "evento": "50 Back",
       "curso": "SCY",
-      "tiempo": "24.82",
-      "origen": "24.82 SCY",
-      "puntos": null
+      "tiempo": "23.28",
+      "origen": "24.90 SCM",
+      "puntos": 700
     },
     {
       "evento": "50 Breast",
@@ -33,30 +33,30 @@
     {
       "evento": "100 Free",
       "curso": "SCY",
-      "tiempo": "47.18",
-      "origen": "47.18 SCY",
-      "puntos": null
+      "tiempo": "46.67",
+      "origen": "52.15 LCM",
+      "puntos": 704
     },
     {
       "evento": "100 Back",
       "curso": "SCY",
-      "tiempo": "50.98",
-      "origen": "50.98 SCY",
-      "puntos": null
+      "tiempo": "49.60",
+      "origen": "53.62 SCM",
+      "puntos": 732
     },
     {
       "evento": "100 Fly",
       "curso": "SCY",
-      "tiempo": "51.15",
-      "origen": "51.15 SCY",
-      "puntos": null
+      "tiempo": "50.13",
+      "origen": "56.01 LCM",
+      "puntos": 688
     },
     {
       "evento": "100 IM",
       "curso": "SCY",
-      "tiempo": "55.94",
-      "origen": "55.94 SCY",
-      "puntos": null
+      "tiempo": "54.91",
+      "origen": "59.36 SCM",
+      "puntos": 572
     },
     {
       "evento": "100 Breast",
@@ -68,23 +68,23 @@
     {
       "evento": "200 Free",
       "curso": "SCY",
-      "tiempo": "1:43.78",
-      "origen": "1:43.78 SCY",
-      "puntos": null
+      "tiempo": "1:43.18",
+      "origen": "1:56.98 LCM",
+      "puntos": 655
     },
     {
       "evento": "200 Back",
       "curso": "SCY",
-      "tiempo": "1:53.88",
-      "origen": "1:53.88 SCY",
-      "puntos": null
+      "tiempo": "1:47.94",
+      "origen": "1:58.61 SCM",
+      "puntos": 706
     },
     {
       "evento": "200 IM",
       "curso": "SCY",
-      "tiempo": "1:58.81",
-      "origen": "1:58.81 SCY",
-      "puntos": null
+      "tiempo": "1:54.89",
+      "origen": "2:09.82 LCM",
+      "puntos": 677
     },
     {
       "evento": "200 Fly",
@@ -103,9 +103,9 @@
     {
       "evento": "400 IM",
       "curso": "SCY",
-      "tiempo": "4:18.62",
-      "origen": "4:18.62 SCY",
-      "puntos": null
+      "tiempo": "4:12.46",
+      "origen": "4:40.51 SCM",
+      "puntos": 587
     },
     {
       "evento": "500 Free",
