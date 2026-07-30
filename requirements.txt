@@ -1,0 +1,20 @@
+# Proyecto de reclutamiento — Gael Moreno Sarmiento
+# Python 3.12+
+
+# --- Scraping y automatización web ---
+selenium>=4.20              # abre Chrome real (SwimCloud/NCSA con Cloudflare WAF)
+beautifulsoup4>=4.12        # parsea el HTML cargado
+curl_cffi>=0.7              # requests con fingerprint de Chrome, sin abrir browser
+browser_cookie3>=0.19       # importa cookies activas de Chrome (pasa el challenge de Cloudflare)
+requests>=2.31
+
+# --- APIs externas ---
+google-api-python-client>=2.130   # Gmail API
+google-auth-oauthlib>=1.2         # OAuth2 para Gmail
+python-dotenv>=1.0                # lee credenciales de .env (WHOOP, NCSA)
+
+# --- Generación de documentos ---
+python-docx>=1.1            # cartas de reclutamiento, tablas de universidades (Word)
+reportlab>=4.1             # PDFs de nutrición/suplementación
+fpdf2>=2.7
+openpyxl>=3.1              # archivos Excel

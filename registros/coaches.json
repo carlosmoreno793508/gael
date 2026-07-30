@@ -1,0 +1,184 @@
+{
+  "total": 8,
+  "por_categoria": {
+    "COACH": 3,
+    "PLATAFORMA": 1,
+    "UNIVERSIDAD": 2,
+    "OTRO": 2
+  },
+  "universidades": [
+    {
+      "universidad": "Asu",
+      "division": null,
+      "correos": 1,
+      "coaches": []
+    },
+    {
+      "universidad": "Indianriver",
+      "division": "NJCAA (JUCO)",
+      "correos": 1,
+      "coaches": []
+    },
+    {
+      "universidad": "Queens",
+      "division": "NCAA D2",
+      "correos": 1,
+      "coaches": [
+        "Sarah Lin"
+      ]
+    },
+    {
+      "universidad": "Stanford",
+      "division": "NCAA D1",
+      "correos": 1,
+      "coaches": [
+        "Jane Doe"
+      ]
+    },
+    {
+      "universidad": "Utexas",
+      "division": "NCAA D1",
+      "correos": 1,
+      "coaches": [
+        "Mike Rivera"
+      ]
+    }
+  ],
+  "coaches": [
+    {
+      "coach": "Jane Doe",
+      "universidad": "Stanford",
+      "division": "NCAA D1",
+      "correos": 1
+    },
+    {
+      "coach": "Mike Rivera",
+      "universidad": "Utexas",
+      "division": "NCAA D1",
+      "correos": 1
+    },
+    {
+      "coach": "Sarah Lin",
+      "universidad": "Queens",
+      "division": "NCAA D2",
+      "correos": 1
+    }
+  ],
+  "detalle": [
+    {
+      "categoria": "COACH",
+      "confianza": 0.9,
+      "universidad": "Stanford",
+      "division": "NCAA D1",
+      "nombre_coach": "Jane Doe",
+      "plataforma": null,
+      "senales": [
+        "division:NCAA D1",
+        "dominio:.edu",
+        "palabra_coach",
+        "coach:Jane Doe"
+      ],
+      "remitente": "Jane Doe <jdoe@athletics.stanford.edu>",
+      "asunto": "Stanford Swimming - Interested in your profile"
+    },
+    {
+      "categoria": "COACH",
+      "confianza": 0.9,
+      "universidad": "Utexas",
+      "division": "NCAA D1",
+      "nombre_coach": "Mike Rivera",
+      "plataforma": null,
+      "senales": [
+        "division:NCAA D1",
+        "dominio:.edu",
+        "palabra_coach",
+        "palabra_reclutamiento",
+        "coach:Mike Rivera"
+      ],
+      "remitente": "Mike Rivera <mrivera@go.utexas.edu>",
+      "asunto": "Longhorns recruiting - official visit"
+    },
+    {
+      "categoria": "PLATAFORMA",
+      "confianza": 0.95,
+      "universidad": null,
+      "division": null,
+      "nombre_coach": null,
+      "plataforma": "NCSA",
+      "senales": [
+        "dominio_plataforma:ncsasports.org"
+      ],
+      "remitente": "recruiting@ncsasports.org",
+      "asunto": "A coach viewed your NCSA profile"
+    },
+    {
+      "categoria": "UNIVERSIDAD",
+      "confianza": 0.7,
+      "universidad": "Asu",
+      "division": null,
+      "nombre_coach": null,
+      "plataforma": null,
+      "senales": [
+        "dominio:.edu",
+        "palabra_reclutamiento",
+        "remitente_institucional"
+      ],
+      "remitente": "admissions@asu.edu",
+      "asunto": "Your interest in Arizona State"
+    },
+    {
+      "categoria": "COACH",
+      "confianza": 0.75,
+      "universidad": "Queens",
+      "division": "NCAA D2",
+      "nombre_coach": "Sarah Lin",
+      "plataforma": null,
+      "senales": [
+        "division:NCAA D2",
+        "dominio:.edu",
+        "palabra_reclutamiento",
+        "coach:Sarah Lin"
+      ],
+      "remitente": "coach@queens.edu",
+      "asunto": "Queens University swimming - D2"
+    },
+    {
+      "categoria": "UNIVERSIDAD",
+      "confianza": 0.7,
+      "universidad": "Indianriver",
+      "division": "NJCAA (JUCO)",
+      "nombre_coach": null,
+      "plataforma": null,
+      "senales": [
+        "division:NJCAA (JUCO)",
+        "dominio:.edu",
+        "palabra_reclutamiento",
+        "remitente_institucional"
+      ],
+      "remitente": "info@indianriver.edu",
+      "asunto": "IRSC Swimming - junior college opportunity"
+    },
+    {
+      "categoria": "OTRO",
+      "confianza": 0.4,
+      "universidad": null,
+      "division": null,
+      "nombre_coach": null,
+      "plataforma": null,
+      "senales": [],
+      "remitente": "promociones@tienda.com",
+      "asunto": "Ofertas de verano 50% descuento"
+    },
+    {
+      "categoria": "OTRO",
+      "confianza": 0.4,
+      "universidad": null,
+      "division": null,
+      "nombre_coach": null,
+      "plataforma": null,
+      "senales": [],
+      "remitente": "notifications@github.com",
+      "asunto": "Run failed: update-wa-points.yml"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nadador": "Gael Moreno Sarmiento",
+  "ADVERTENCIA": "DATOS DE EJEMPLO (no son de Gael). Reemplazar corriendo scripts/whoop_reporte.py con datos reales de la API de WHOOP.",
+  "recuperacion": [
+    {"fecha": "2026-07-04", "recovery_score": 72, "hrv_ms": 88.4, "rhr_bpm": 48},
+    {"fecha": "2026-07-05", "recovery_score": 65, "hrv_ms": 79.1, "rhr_bpm": 50},
+    {"fecha": "2026-07-06", "recovery_score": 81, "hrv_ms": 95.2, "rhr_bpm": 46},
+    {"fecha": "2026-07-07", "recovery_score": 58, "hrv_ms": 71.0, "rhr_bpm": 52},
+    {"fecha": "2026-07-08", "recovery_score": 77, "hrv_ms": 90.6, "rhr_bpm": 47},
+    {"fecha": "2026-07-09", "recovery_score": 69, "hrv_ms": 83.3, "rhr_bpm": 49}
+  ],
+  "sueno": [
+    {"fecha": "2026-07-04", "horas": 8.1, "performance_pct": 88, "eficiencia_pct": 92.0},
+    {"fecha": "2026-07-05", "horas": 7.3, "performance_pct": 79, "eficiencia_pct": 90.5},
+    {"fecha": "2026-07-06", "horas": 8.6, "performance_pct": 94, "eficiencia_pct": 93.1},
+    {"fecha": "2026-07-07", "horas": 6.9, "performance_pct": 72, "eficiencia_pct": 88.0},
+    {"fecha": "2026-07-08", "horas": 8.3, "performance_pct": 90, "eficiencia_pct": 92.4},
+    {"fecha": "2026-07-09", "horas": 7.8, "performance_pct": 85, "eficiencia_pct": 91.0}
+  ],
+  "strain": [
+    {"fecha": "2026-07-04", "strain": 14.2, "kilojoules": 4100, "fc_promedio": 128, "fc_maxima": 182},
+    {"fecha": "2026-07-05", "strain": 16.8, "kilojoules": 4850, "fc_promedio": 141, "fc_maxima": 190},
+    {"fecha": "2026-07-06", "strain": 11.5, "kilojoules": 3200, "fc_promedio": 118, "fc_maxima": 171},
+    {"fecha": "2026-07-07", "strain": 17.9, "kilojoules": 5200, "fc_promedio": 146, "fc_maxima": 193},
+    {"fecha": "2026-07-08", "strain": 13.1, "kilojoules": 3800, "fc_promedio": 124, "fc_maxima": 178},
+    {"fecha": "2026-07-09", "strain": 15.4, "kilojoules": 4500, "fc_promedio": 135, "fc_maxima": 187}
+  ]
+}
