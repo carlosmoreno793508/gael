@@ -39,9 +39,17 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 ## Entrevista 2 — Encaje académico y atlético (profundizar)
 **Qué debe decir Gael:**
 - Sus **metas académicas** y la carrera que le interesa.
-- Su situación de exámenes: **SAT 1100, meta Duolingo 130–135** (apóyate en el
-  reporte de requisitos `data/universidades_requisitos.json`).
-- Su **progresión de tiempos** y plan de mejora.
+- Su situación de exámenes: sus **marcas actuales, sus metas y su calendario**
+  (fechas próximas de Duolingo y SAT). *Los números personales van en `.env` / el
+  reporte de requisitos, no en esta guía pública.*
+- Que **está en proceso de mejorar sus números** (tiene exámenes programados) —
+  esto muestra trayectoria y compromiso, algo que los coaches valoran.
+- Su **progresión de tiempos** y plan de mejora en la alberca.
+
+> **Estrategia con los exámenes (importante):** cuando un coach pregunte por SAT o
+> inglés, Gael debe decir con seguridad *"tengo Duolingo el [fecha] y SAT el
+> [fecha], y espero subir a [meta]"*. Comunicar el **calendario y la meta** vale
+> más que un número aislado: demuestra que está activo y con plan.
 
 **Preguntas que debe hacer:**
 1. ¿Qué **apoyo académico** hay (study hall, tutores, asesor)? ¿**GPA promedio** del equipo?
@@ -88,6 +96,15 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 **Observa tú mismo:** instalaciones, un entrenamiento real, dormitorios, la ciudad.
 
 ---
+
+## Preguntas extra muy valiosas (de expertos de reclutamiento)
+- **Estabilidad del programa:** *"¿Hay algún riesgo de que recorten el equipo de
+  natación?"* Programas de natación **sí han sido eliminados** por los departamentos
+  atléticos — crítico para un internacional que se muda de país.
+- **Head coach vs. asistente:** si hablas con un **asistente**, pregunta *"¿cómo es
+  el head coach?"* (¿personalidad calmada o exigente?). Puedes llevarte bien con el
+  asistente, pero el head coach define tu experiencia.
+- **Visión a futuro:** *"¿Dónde ve al programa en 4 años? ¿Cuál es su visión?"*
 
 ## Después de cada charla
 - **Correo de agradecimiento** dentro de 24 h.
