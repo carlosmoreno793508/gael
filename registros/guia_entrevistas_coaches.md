@@ -59,4 +59,6 @@ Si el head coach te **delega con alguien** (un asistente), **ESE alguien es tu c
 Vaguedad sobre beca/renovación/colegiatura internacional · no dejarte hablar con el equipo · presión para decidir ya.
 
 ## Nota internacional (México)
-Regístrate en el **NCAA Eligibility Center**. Cuidado con **premios en dinero** (amateurismo). Ten **transcripts** traducidos y tus **exámenes de inglés** al día.
+Regístrate en el **NCAA Eligibility Center**. Cuidado con **premios en dinero** (amateurismo). Ten tu **transcript** (historial oficial de **calificaciones** / kardex de la prepa) **traducido al inglés** y tus **exámenes de inglés** al día.
+
+> **Glosario rápido** (lo que el coach te puede pedir): **transcript** = calificaciones oficiales · **times** = tus mejores marcas · **video** = video de alguna prueba.
