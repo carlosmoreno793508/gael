@@ -107,10 +107,17 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 - **Visión a futuro:** *"¿Dónde ve al programa en 4 años? ¿Cuál es su visión?"*
 
 ## Después de cada charla (¡no se descuida!)
-- **SIEMPRE manda correo de agradecimiento** dentro de 24 h — **aunque en la llamada
-  ya hayan quedado en volver a hablar en tal fecha.** Nunca se asume; que haya otra
+- **SIEMPRE manda un agradecimiento** dentro de 24 h — **aunque en la llamada ya
+  hayan quedado en volver a hablar en tal fecha.** Nunca se asume; que haya otra
   llamada agendada NO sustituye el agradecimiento. Mandarlo te hace ver más
   profesional, no repetitivo.
+- **Usa el MISMO canal por el que el coach te contactó:** si charlaron por
+  **teléfono**, un **mensaje (texto)** de agradecimiento es correcto; si fue por
+  **correo**, contesta por **correo**. No fuerces un canal nuevo ni pidas un correo
+  que no necesitas si ya tienen contacto directo.
+- Si un **asistente** te contactó y solo tienes el **correo del head coach**, puedes
+  agradecer al **head coach** (que además es quien decide) y mencionar la buena
+  charla con el asistente — sin necesidad de pedir el correo del asistente.
 - **Lo manda Gael** (el atleta), no el papá/mamá.
 - **Qué incluye (corto, 4–6 líneas):**
   1. Gracias por el tiempo/la llamada.
