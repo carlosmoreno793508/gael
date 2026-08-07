@@ -1,0 +1,1007 @@
+[
+  {
+    "universidad": "Yale University",
+    "division": "NCAA D1",
+    "conferencia": "Ivy",
+    "ciudad": "New Haven",
+    "estado": "CT",
+    "coach": "Kyle Schack",
+    "coaches": [
+      "Jim Henry",
+      "Kyle Schack"
+    ],
+    "email": "",
+    "telefono": "248 797 9391",
+    "rank_div": "45th",
+    "fuentes": [
+      "Contactos Colegios",
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "University of Cincinnati",
+    "division": "NCAA D1",
+    "conferencia": "Big 12",
+    "ciudad": "Cincinnati",
+    "estado": "OH",
+    "coach": "Scott Stern",
+    "coaches": [
+      "Scott Stern"
+    ],
+    "email": "sternsm@ucmail.uc.edu",
+    "telefono": "847 867 28821",
+    "rank_div": "49th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "Cornell University",
+    "division": "NCAA D1",
+    "conferencia": "Ivy",
+    "ciudad": "Ithaca",
+    "estado": "NY",
+    "coach": "Wes Newman",
+    "coaches": [
+      "Wes Newman"
+    ],
+    "email": "wjn3@cornell.edu",
+    "telefono": "607 351 5743",
+    "rank_div": "50th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "University of Delaware",
+    "division": "NCAA D1",
+    "conferencia": "Coastal",
+    "ciudad": "Newark",
+    "estado": "DE",
+    "coach": "Pablo Marmolejo",
+    "coaches": [
+      "Pablo Marmolejo"
+    ],
+    "email": "Pablom@udel.edu",
+    "telefono": "302 685 2623",
+    "rank_div": "51st",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "Southern Illinois University",
+    "division": "NCAA D1",
+    "conferencia": "Missouri Valley",
+    "ciudad": "Carbondale",
+    "estado": "IL",
+    "coach": "Ivan Sanchez",
+    "coaches": [
+      "Ivan Sanchez"
+    ],
+    "email": "",
+    "telefono": "6187135619",
+    "rank_div": "57th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "West Virginia University",
+    "division": "NCAA D1",
+    "conferencia": "Big 12",
+    "ciudad": "Morgantown",
+    "estado": "WV",
+    "coach": "Vic Riggs",
+    "coaches": [
+      "James Washbish",
+      "Vic Riggs"
+    ],
+    "email": "james.washbish@mail.wvu.edu",
+    "telefono": "304 290 4384",
+    "rank_div": "59th",
+    "fuentes": [
+      "Contactos Colegios",
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "California Baptist University",
+    "division": "NCAA D1",
+    "conferencia": "WAC",
+    "ciudad": "Riverside",
+    "estado": "CA",
+    "coach": "Jim Bossert",
+    "coaches": [
+      "Jim Bossert"
+    ],
+    "email": "jbossert@calbaptist.edu",
+    "telefono": "719 4392640",
+    "rank_div": "68th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "Georgetown University",
+    "division": "NCAA D1",
+    "conferencia": "Big East",
+    "ciudad": "Washington",
+    "estado": "DC",
+    "coach": "Jack Leavitt",
+    "coaches": [
+      "Jack Leavitt"
+    ],
+    "email": "jack.leavitt@georgetown.edu",
+    "telefono": "617 967 3322",
+    "rank_div": "77th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "South Dakota State University",
+    "division": "NCAA D1",
+    "conferencia": "Summit",
+    "ciudad": "Brookings",
+    "estado": "SD",
+    "coach": "Douglas Humphrey",
+    "coaches": [
+      "Douglas Humphrey"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "94th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "La Salle University",
+    "division": "NCAA D1",
+    "conferencia": "Atlantic 10",
+    "ciudad": "Philadelphia",
+    "estado": "PA",
+    "coach": "Kerry Smith",
+    "coaches": [
+      "Kerry Smith"
+    ],
+    "email": "smithka@lasalle.edu",
+    "telefono": "",
+    "rank_div": "97th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "Boston University",
+    "division": "NCAA D1",
+    "conferencia": "Patriot",
+    "ciudad": "Boston",
+    "estado": "MA",
+    "coach": "James Sica",
+    "coaches": [
+      "James Sica"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "100th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Competitivo / reclutable (con beca)"
+  },
+  {
+    "universidad": "Lehigh University",
+    "division": "NCAA D1",
+    "conferencia": "Patriot",
+    "ciudad": "Bethlehem",
+    "estado": "PA",
+    "coach": "Mary Ellen Wydan",
+    "coaches": [
+      "Mary Ellen Wydan"
+    ],
+    "email": "lehighswimdive@gmail.com",
+    "telefono": "(610) 758-4309",
+    "rank_div": "113th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Reclutable, aporta pronto (con beca)"
+  },
+  {
+    "universidad": "College of the Holy Cross",
+    "division": "NCAA D1",
+    "conferencia": "Patriot",
+    "ciudad": "Worcester",
+    "estado": "MA",
+    "coach": "Kristy Jones",
+    "coaches": [
+      "Kristy Jones"
+    ],
+    "email": "klmjones@holycross.edu",
+    "telefono": "617 913 4946",
+    "rank_div": "118th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Reclutable, aporta pronto (con beca)"
+  },
+  {
+    "universidad": "Brigham Young University (BYU)",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Provo, UT",
+    "estado": "",
+    "coach": "Shari Skabelund",
+    "coaches": [
+      "Shari Skabelund"
+    ],
+    "email": "",
+    "telefono": "(801) 422-8665",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "requisitos": "Min ACT 20, Min SAT 1000, Min GPA 3.0/4.0",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Southern Methodist University - SMU",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Dallas, TX",
+    "estado": "",
+    "coach": "Greg Rhodenbaugh",
+    "coaches": [
+      "Greg Rhodenbaugh"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Stanford University",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Stanford, CA",
+    "estado": "",
+    "coach": "Dan Schemmel",
+    "coaches": [
+      "Dan Schemmel"
+    ],
+    "email": "",
+    "telefono": "303.518.4932",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Texas A&M University",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "College Station, TX",
+    "estado": "",
+    "coach": "Jay Holmes",
+    "coaches": [
+      "Jay Holmes"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Texas Christian University (TCU)",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Fort Worth, TX",
+    "estado": "",
+    "coach": "James Winchester",
+    "coaches": [
+      "James Winchester"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Arizona",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Tucson, AZ",
+    "estado": "",
+    "coach": "Augie Busch",
+    "coaches": [
+      "Augie Busch"
+    ],
+    "email": "",
+    "telefono": "520-621-4202",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of California - Berkeley",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Berkeley, CA",
+    "estado": "",
+    "coach": "David Durden",
+    "coaches": [
+      "David Durden"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Florida",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Gainesville, FL",
+    "estado": "",
+    "coach": "Anthony Nesty",
+    "coaches": [
+      "Anthony Nesty"
+    ],
+    "email": "",
+    "telefono": "352-681-4515",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Notre Dame",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Notre Dame, IN",
+    "estado": "",
+    "coach": "Chris Lindauer",
+    "coaches": [
+      "Chris Lindauer"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Southern California",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Los Angeles, CA",
+    "estado": "",
+    "coach": "Lea Maurer",
+    "coaches": [
+      "Lea Maurer"
+    ],
+    "email": "",
+    "telefono": "(213) 740-8456",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Texas - Austin",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Austin, TX",
+    "estado": "",
+    "coach": "Eddie Reese",
+    "coaches": [
+      "Eddie Reese"
+    ],
+    "email": "",
+    "telefono": "512-471-1384",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Virginia",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Charlottesville, VA",
+    "estado": "",
+    "coach": "Todd DeSorbo",
+    "coaches": [
+      "Todd DeSorbo"
+    ],
+    "email": "",
+    "telefono": "434-982-5125",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Wisconsin",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Madison, WI",
+    "estado": "",
+    "coach": "Yuri Suguiyama",
+    "coaches": [
+      "Yuri Suguiyama"
+    ],
+    "email": "",
+    "telefono": "608-590-9962",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Wisconsin - Green Bay",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Green Bay, WI",
+    "estado": "",
+    "coach": "Alexander Lewis",
+    "coaches": [
+      "Alexander Lewis"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of Wisconsin - Milwaukee",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Milwaukee, WI",
+    "estado": "",
+    "coach": "Kyle Clements",
+    "coaches": [
+      "Kyle Clements"
+    ],
+    "email": "",
+    "telefono": "(414) 750-0932",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "University of the Incarnate Word",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "San Antonio, TX",
+    "estado": "",
+    "coach": "Andrii Nikishenko",
+    "coaches": [
+      "Andrii Nikishenko"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Virginia Tech",
+    "division": "NCAA D1",
+    "conferencia": "",
+    "ciudad": "Blacksburg, VA",
+    "estado": "",
+    "coach": "Sergio Lopez Miro",
+    "coaches": [
+      "Sergio Lopez Miro"
+    ],
+    "email": "",
+    "telefono": "(540) 231-4768",
+    "rank_div": "",
+    "fuentes": [
+      "Contactos Colegios"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Programa élite — reach (aporta en espalda)"
+  },
+  {
+    "universidad": "Colorado Mesa University",
+    "division": "NCAA D2",
+    "conferencia": "Rocky Mountain Athletic",
+    "ciudad": "Grand Junction",
+    "estado": "CO",
+    "coach": "Andy Parro",
+    "coaches": [
+      "Andy Parro"
+    ],
+    "email": "aparro@coloradomesa.edu",
+    "telefono": "773-592-8990",
+    "rank_div": "4th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "Grand Valley State University",
+    "division": "NCAA D2",
+    "conferencia": "GLIAC",
+    "ciudad": "Allendale",
+    "estado": "MI",
+    "coach": "Eric Murray",
+    "coaches": [
+      "Eric Murray"
+    ],
+    "email": "",
+    "telefono": "773-592-8990",
+    "rank_div": "6th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "University of Findlay",
+    "division": "NCAA D2",
+    "conferencia": "GMAC",
+    "ciudad": "Findlay",
+    "estado": "OH",
+    "coach": "Diego Santos",
+    "coaches": [
+      "Diego Santos"
+    ],
+    "email": "",
+    "telefono": "419-434-6013",
+    "rank_div": "9th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "Emmanuel University - Georgia",
+    "division": "NCAA D2",
+    "conferencia": "Carolinas",
+    "ciudad": "Franklin Springs",
+    "estado": "GA",
+    "coach": "Allen Gilchrest",
+    "coaches": [
+      "Allen Gilchrest"
+    ],
+    "email": "",
+    "telefono": "706-245-2922",
+    "rank_div": "34th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "Barry University",
+    "division": "NCAA D2",
+    "conferencia": "Sunshine",
+    "ciudad": "Miami",
+    "estado": "FL",
+    "coach": "Noah Moran",
+    "coaches": [
+      "Noah Moran"
+    ],
+    "email": "nmoran@barry.edu",
+    "telefono": "734 780 6613",
+    "rank_div": "48th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "Wheeling University",
+    "division": "NCAA D2",
+    "conferencia": "Mountain East",
+    "ciudad": "Wheeling",
+    "estado": "WV",
+    "coach": "Cory Kephart",
+    "coaches": [
+      "Cory Kephart"
+    ],
+    "email": "",
+    "telefono": "304-243-2399",
+    "rank_div": "70th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "West Virginia Wesleyan College",
+    "division": "NCAA D2",
+    "conferencia": "Mountain East",
+    "ciudad": "Buckhannon",
+    "estado": "WV",
+    "coach": "Collin Meadows",
+    "coaches": [
+      "Collin Meadows"
+    ],
+    "email": "",
+    "telefono": "304-243-2399",
+    "rank_div": "73rd",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Por encima del nivel (con beca)"
+  },
+  {
+    "universidad": "University of Chicago",
+    "division": "NCAA D3",
+    "conferencia": "UAA",
+    "ciudad": "Chicago",
+    "estado": "IL",
+    "coach": "Jason Weber",
+    "coaches": [
+      "Jason Weber"
+    ],
+    "email": "",
+    "telefono": "773-702-4657",
+    "rank_div": "5th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Denison University",
+    "division": "NCAA D3",
+    "conferencia": "North Coast",
+    "ciudad": "Granville",
+    "estado": "OH",
+    "coach": "Gregg Parini",
+    "coaches": [
+      "Gregg Parini"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "8th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Trinity University",
+    "division": "NCAA D3",
+    "conferencia": "SCAC",
+    "ciudad": "San Antonio",
+    "estado": "TX",
+    "coach": "Mark Lang",
+    "coaches": [
+      "Mark Lang"
+    ],
+    "email": "mlang1@trinity.edu",
+    "telefono": "269 625 4516",
+    "rank_div": "29th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Rose-Hulman Institute of Technology",
+    "division": "NCAA D3",
+    "conferencia": "Heartland",
+    "ciudad": "Terre Haute",
+    "estado": "IN",
+    "coach": "Keith Crawford",
+    "coaches": [
+      "Keith Crawford"
+    ],
+    "email": "Crawford@Rose-Hulman.edu",
+    "telefono": "812-877-8052",
+    "rank_div": "55th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "University of Redlands",
+    "division": "NCAA D3",
+    "conferencia": "SCIAC",
+    "ciudad": "Redlands",
+    "estado": "CA",
+    "coach": "Kaitlyn Reny",
+    "coaches": [
+      "Kaitlyn Reny"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "81st",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Hartwick College",
+    "division": "NCAA D3",
+    "conferencia": "Empire 8",
+    "ciudad": "Oneonta",
+    "estado": "NY",
+    "coach": "Dale Rothenberger",
+    "coaches": [
+      "Dale Rothenberger"
+    ],
+    "email": "",
+    "telefono": "607-431-4714",
+    "rank_div": "97th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Whittier College",
+    "division": "NCAA D3",
+    "conferencia": "SCIAC",
+    "ciudad": "Whittier",
+    "estado": "CA",
+    "coach": "Michael Jafari",
+    "coaches": [
+      "Michael Jafari"
+    ],
+    "email": "",
+    "telefono": "(562) 907-5091",
+    "rank_div": "112th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "McMurry University",
+    "division": "NCAA D3",
+    "conferencia": "SCAC",
+    "ciudad": "Abilene",
+    "estado": "TX",
+    "coach": "Samuel Willstrop",
+    "coaches": [
+      "Samuel Willstrop"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "161st",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Millikin University",
+    "division": "NCAA D3",
+    "conferencia": "CCIW",
+    "ciudad": "Decatur",
+    "estado": "IL",
+    "coach": "Edward Pacey",
+    "coaches": [
+      "Edward Pacey"
+    ],
+    "email": "epacey@millikin.edu",
+    "telefono": "217-493-6694",
+    "rank_div": "178th",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Carroll University",
+    "division": "NCAA D3",
+    "conferencia": "CCIW",
+    "ciudad": "Waukesha",
+    "estado": "WI",
+    "coach": "Guy Gniotczynski",
+    "coaches": [
+      "Guy Gniotczynski"
+    ],
+    "email": "agniotcz@carrollu.edu",
+    "telefono": "262-327-1562",
+    "rank_div": "180th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "North Central College",
+    "division": "NCAA D3",
+    "conferencia": "CCIW",
+    "ciudad": "Naperville",
+    "estado": "IL",
+    "coach": "Nora Schroedter",
+    "coaches": [
+      "Nora Schroedter"
+    ],
+    "email": "",
+    "telefono": "630-637-5518",
+    "rank_div": "201st",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Lycoming College",
+    "division": "NCAA D3",
+    "conferencia": "Landmark",
+    "ciudad": "Williamsport",
+    "estado": "PA",
+    "coach": "Andrew Dragunas",
+    "coaches": [
+      "Andrew Dragunas"
+    ],
+    "email": "",
+    "telefono": "",
+    "rank_div": "221st",
+    "fuentes": [
+      "NCSA"
+    ],
+    "prioridad": "media",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (sin beca atlética)"
+  },
+  {
+    "universidad": "Milligan University",
+    "division": "NAIA",
+    "conferencia": "Appalachian Athletic",
+    "ciudad": "Milligan",
+    "estado": "TN",
+    "coach": "Spencer Scarth",
+    "coaches": [
+      "Spencer Scarth"
+    ],
+    "email": "scscaerth@milligan.edu",
+    "telefono": "203 470 8045",
+    "rank_div": "5th",
+    "fuentes": [
+      "SwimCloud"
+    ],
+    "prioridad": "alta",
+    "estatus": "por contactar",
+    "fit_tiempos": "Muy por encima (con beca)"
+  }
+]

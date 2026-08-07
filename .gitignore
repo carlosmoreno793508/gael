@@ -1,0 +1,37 @@
+# Credenciales — NUNCA subir al repo
+.env
+gmail_credentials.json
+gmail_token.json
+*token*.json
+whoop_token.json
+
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Documentos generados (se regeneran localmente)
+*.docx
+*.pdf
+*.xlsx
+!plantillas/*.docx
+
+# Selenium / ChromeDriver
+chromedriver
+chromedriver.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs crudos de scraping (los procesados sí se versionan)
+registros/_raw/
+documentos_generados/
+
+# Archivos TEMPORALES estacionados en envios/ — NUNCA subir (se sirven por tunel
+# y se autoborran). Solo se versiona la config de la carpeta.
+envios/*
+!envios/README.md
+!envios/destinatarios.json
+!envios/historial.md

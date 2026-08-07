@@ -1,0 +1,21 @@
+[
+  {"universidad": "University of Wisconsin - Milwaukee", "division": "D1", "ciudad": "Milwaukee, WI", "coach": "Kyle Clements", "posicion": "Head Coach", "telefono": "(414) 750-0932", "staff": 2, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Wisconsin - Green Bay", "division": "D1", "ciudad": "Green Bay, WI", "coach": "Alexander Lewis", "posicion": "Head Coach", "telefono": "", "staff": 1, "fuente": "Contactos Colegios"},
+  {"universidad": "University of the Incarnate Word", "division": "D1", "ciudad": "San Antonio, TX", "coach": "Andrii Nikishenko", "posicion": "Interim Head Coach", "telefono": "", "staff": 2, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Texas - Austin", "division": "D1", "ciudad": "Austin, TX", "coach": "Eddie Reese", "posicion": "Head Coach", "telefono": "512-471-1384", "staff": 2, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Florida", "division": "D1", "ciudad": "Gainesville, FL", "coach": "Anthony Nesty", "posicion": "Head Coach (M. Swimming)", "telefono": "352-681-4515", "staff": 5, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Arizona", "division": "D1", "ciudad": "Tucson, AZ", "coach": "Augie Busch", "posicion": "Head Coach", "telefono": "520-621-4202", "staff": 4, "fuente": "Contactos Colegios"},
+  {"universidad": "Texas Christian University (TCU)", "division": "D1", "ciudad": "Fort Worth, TX", "coach": "James Winchester", "posicion": "Head Coach", "telefono": "", "staff": 4, "fuente": "Contactos Colegios"},
+  {"universidad": "Texas A&M University", "division": "D1", "ciudad": "College Station, TX", "coach": "Jay Holmes", "posicion": "Head Coach", "telefono": "", "staff": 1, "fuente": "Contactos Colegios"},
+  {"universidad": "Stanford University", "division": "D1", "ciudad": "Stanford, CA", "coach": "Dan Schemmel", "posicion": "Head Coach", "telefono": "303.518.4932", "staff": 3, "fuente": "Contactos Colegios"},
+  {"universidad": "Southern Methodist University - SMU", "division": "D1", "ciudad": "Dallas, TX", "coach": "Greg Rhodenbaugh", "posicion": "Head Coach", "telefono": "", "staff": 2, "fuente": "Contactos Colegios"},
+  {"universidad": "Brigham Young University (BYU)", "division": "D1", "ciudad": "Provo, UT", "coach": "Shari Skabelund", "posicion": "Head Coach", "telefono": "(801) 422-8665", "staff": 5, "fuente": "Contactos Colegios", "requisitos": "Min ACT 20, Min SAT 1000, Min GPA 3.0/4.0"},
+  {"universidad": "Virginia Tech", "division": "D1", "ciudad": "Blacksburg, VA", "coach": "Sergio Lopez Miro", "posicion": "Head Coach", "telefono": "(540) 231-4768", "staff": 3, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Southern California", "division": "D1", "ciudad": "Los Angeles, CA", "coach": "Lea Maurer", "posicion": "Swimming Coach Chair", "telefono": "(213) 740-8456", "staff": 5, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Virginia", "division": "D1", "ciudad": "Charlottesville, VA", "coach": "Todd DeSorbo", "posicion": "Head Coach", "telefono": "434-982-5125", "staff": 3, "fuente": "Contactos Colegios"},
+  {"universidad": "University of California - Berkeley", "division": "D1", "ciudad": "Berkeley, CA", "coach": "David Durden", "posicion": "Head Coach", "telefono": "", "staff": 3, "fuente": "Contactos Colegios"},
+  {"universidad": "Yale University", "division": "D1", "ciudad": "New Haven, CT", "coach": "Jim Henry", "posicion": "Head Coach", "telefono": "203-843-0970", "staff": 4, "fuente": "Contactos Colegios"},
+  {"universidad": "West Virginia University", "division": "D1", "ciudad": "Morgantown, WV", "coach": "Vic Riggs", "posicion": "Head Coach", "telefono": "(304) 293 2154", "staff": 1, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Wisconsin", "division": "D1", "ciudad": "Madison, WI", "coach": "Yuri Suguiyama", "posicion": "Head Coach", "telefono": "608-590-9962", "staff": 5, "fuente": "Contactos Colegios"},
+  {"universidad": "University of Notre Dame", "division": "D1", "ciudad": "Notre Dame, IN", "coach": "Chris Lindauer", "posicion": "Head Coach", "telefono": "", "staff": 6, "fuente": "Contactos Colegios"}
+]

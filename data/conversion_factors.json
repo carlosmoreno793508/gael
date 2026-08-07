@@ -1,0 +1,18 @@
+{
+  "nota": "Factores aproximados para convertir a Yardas Cortas (SCY). SCY_seg = tiempo_seg * factor. Se prefiere SIEMPRE el tiempo SCY real cuando existe; estos factores solo aplican como respaldo para pruebas sin marca SCY (p.ej. 400/800 libre). Calibrados de forma aproximada; EDITABLES.",
+  "LCM_to_SCY": {
+    "50 Free": 0.905, "100 Free": 0.895, "200 Free": 0.882, "400 Free": 0.870,
+    "50 Back": 0.905, "100 Back": 0.895, "200 Back": 0.885,
+    "50 Breast": 0.910, "100 Breast": 0.900, "200 Breast": 0.890,
+    "50 Fly": 0.905, "100 Fly": 0.895, "200 Fly": 0.885,
+    "200 IM": 0.885, "400 IM": 0.882
+  },
+  "SCM_to_SCY": {
+    "50 Free": 0.935, "100 Free": 0.925, "200 Free": 0.905, "400 Free": 0.895,
+    "800 Free": 0.890,
+    "50 Back": 0.935, "100 Back": 0.925, "200 Back": 0.910,
+    "50 Breast": 0.940, "100 Breast": 0.930, "200 Breast": 0.915,
+    "50 Fly": 0.935, "100 Fly": 0.925, "200 Fly": 0.910,
+    "100 IM": 0.925, "200 IM": 0.910, "400 IM": 0.900
+  }
+}
