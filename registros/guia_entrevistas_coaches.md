@@ -107,6 +107,15 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
   Coach [head] sobre el programa?"*.
 - **El head coach entra cuando el interés es serio** (charlas profundas, posible
   oferta, visita). Que se suba a una llamada suele ser buena señal.
+- **Si el head coach DELEGA la comunicación en el asistente** (te "entrega" con él,
+  como Albiero → Kevin en Louisville): el **ciclo rutinario** (charlas, mensajes,
+  follow-ups) va **con el asistente**. **No satures al head coach** con cada mensaje;
+  copiarlo/escribirle en cada touchpoint cuando ya delegó es contraproducente.
+  "Dejarlo fuera" del ciclo rutinario **no es ignorarlo** — es respetar la delegación.
+  Vuelve a entrar en los **momentos clave** (oferta, visita, decisión) o cuando el
+  **asistente lo reincorpore** ("el head coach quiere platicar contigo" = señal fuerte).
+- **Regla simple:** sigue al que te pusieron enfrente. Si te entregaron con el
+  asistente, el asistente es tu persona; el head coach entra en los momentos grandes.
 - **Si solo ha sido por correo,** proponer una **llamada** (teléfono/video) es una
   escalada natural y positiva: *"Estaría encantado de tener una llamada cuando les
   acomode."* Empieza con el asistente; el head coach vendrá después.
