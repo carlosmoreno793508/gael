@@ -5,7 +5,20 @@ Recluta internacional (México), natación NCAA, clase 2027.
 - Investiga la uni antes de cada llamada. Ten **5–10 preguntas** listas.
 - **Toma notas** y manda **agradecimiento en 24 h**.
 - **NO hables de beca/dinero en la 1ª llamada** (eso es la etapa 3).
-- Timing D1: pueden hablar desde el **15 de junio tras 2º de prepa** (ya abierto para 2027). D2 sin restricción.
+
+## Periodos sin contacto — natación D1 (2026-27)
+Cuándo los coaches **NO pueden reclutar** (útil para planear y para entender si un coach pospone).
+
+| Periodo | Fechas | Qué significa |
+|---|---|---|
+| **Recruiting Shutdown** | **17–23 ago 2026** | 🔴 CERO contacto (ni llamadas ni correos) |
+| **Dead Period** | 9–12 nov 2026 | ⚫ Sin visitas; teléfono y correo SÍ |
+| **Recruiting Shutdown** | 18 dic 2026 – 7 ene 2027 | 🔴 CERO contacto |
+| **Recruiting Shutdown** | 7–20 feb 2027 | 🔴 CERO contacto |
+
+- 🔴 **Shutdown** = nada de reclutamiento (ni contacto, ni visitas, ni llamadas/correos).
+- ⚫ **Dead period** = no presencial ni visitas, pero **teléfono/email SÍ**.
+- Fuente: calendario oficial NCAA 2026-27 (actualizado 4 ago 2026).
 
 ## Entrevista 1 — Romper el hielo
 **Gael cuenta:** quién es (Querétaro, club, clase 2027), **por qué ESA uni** (específico), sus **pruebas/marcas/metas**, su gancho (**World Juniors 2025**), qué quiere **estudiar**.
@@ -59,6 +72,4 @@ Si el head coach te **delega con alguien** (un asistente), **ESE alguien es tu c
 Vaguedad sobre beca/renovación/colegiatura internacional · no dejarte hablar con el equipo · presión para decidir ya.
 
 ## Nota internacional (México)
-Regístrate en el **NCAA Eligibility Center**. Cuidado con **premios en dinero** (amateurismo). Ten tu **transcript** (historial oficial de **calificaciones** / kardex de la prepa) **traducido al inglés** y tus **exámenes de inglés** al día.
-
-> **Glosario rápido** (lo que el coach te puede pedir): **transcript** = calificaciones oficiales · **times** = tus mejores marcas · **video** = video de alguna prueba.
+Regístrate en el **NCAA Eligibility Center**. Cuidado con **premios en dinero** (amateurismo). Ten tus **transcripts** traducidos y tus **exámenes de inglés** al día.
