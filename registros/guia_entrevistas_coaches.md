@@ -97,6 +97,11 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 
 ---
 
+## 📌 REGLA DEL CANAL
+**Si un head coach te delega o te "manda" con alguien (un asistente), ESE alguien es
+tu canal.** Toda la comunicación (charlas, mensajes, agradecimientos, follow-ups) va
+con esa persona. El head coach reaparece solo en los momentos grandes.
+
 ## Asistente vs. head coach — cómo avanzar (etiqueta clave)
 - **Es normal y correcto empezar con el asistente.** Suele ser el coordinador de
   reclutamiento y tu aliado interno que te "vende" con el head coach.
@@ -156,6 +161,24 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 - **Toma notas** de la llamada: qué te preguntó, qué te dijo del equipo, próximos pasos.
 - **Por qué siempre va:** es cortesía esperada (los coaches notan cuándo NO llega),
   deja registro escrito, mantiene el canal caliente y te hace memorable.
+
+## Plantilla — mensaje de agradecimiento tras una charla
+Se manda por el **mismo canal** del coach (teléfono → mensaje; correo → correo).
+En **inglés**, listo para ajustar los `[corchetes]`:
+
+> Hi Coach [nombre], thank you for taking the time to talk with me today — I really
+> enjoyed our conversation. I especially liked [algo específico: the team culture /
+> your training approach / ...]. I'm very interested in [Universidad] and excited
+> about the possibility of being part of the team. Please let me know the next steps,
+> or anything you'd like from me (times, transcript, video). Thanks again!
+> — [Gael Moreno]
+
+**Las 5 partes que lleva:**
+1. **Gracias** por la llamada/el tiempo.
+2. **Algo específico** que te gustó (demuestra que pusiste atención).
+3. **Reiterar el interés** en el programa.
+4. **Siguientes pasos** / ofrecer lo que te pidan (marcas, transcript, video).
+5. **Cierre y tu nombre.**
 
 ## Banderas rojas 🚩
 - Vaguedad sobre **beca, renovación o colegiatura internacional**.
