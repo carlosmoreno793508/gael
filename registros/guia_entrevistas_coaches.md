@@ -106,9 +106,21 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
   asistente, pero el head coach define tu experiencia.
 - **Visión a futuro:** *"¿Dónde ve al programa en 4 años? ¿Cuál es su visión?"*
 
-## Después de cada charla
-- **Correo de agradecimiento** dentro de 24 h.
-- **Notas:** qué te preguntó, qué te dijo del equipo, próximos pasos.
+## Después de cada charla (¡no se descuida!)
+- **SIEMPRE manda correo de agradecimiento** dentro de 24 h — **aunque en la llamada
+  ya hayan quedado en volver a hablar en tal fecha.** Nunca se asume; que haya otra
+  llamada agendada NO sustituye el agradecimiento. Mandarlo te hace ver más
+  profesional, no repetitivo.
+- **Lo manda Gael** (el atleta), no el papá/mamá.
+- **Qué incluye (corto, 4–6 líneas):**
+  1. Gracias por el tiempo/la llamada.
+  2. **Algo específico** que le gustó o aprendió (demuestra que puso atención).
+  3. Reiterar **interés** en el programa.
+  4. **Confirmar el siguiente paso**: "Quedo atento a nuestra llamada del [fecha]".
+  5. Ofrecer lo que hayan pedido (marcas, transcript, video, etc.).
+- **Toma notas** de la llamada: qué te preguntó, qué te dijo del equipo, próximos pasos.
+- **Por qué siempre va:** es cortesía esperada (los coaches notan cuándo NO llega),
+  deja registro escrito, mantiene el canal caliente y te hace memorable.
 
 ## Banderas rojas 🚩
 - Vaguedad sobre **beca, renovación o colegiatura internacional**.
