@@ -116,6 +116,11 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
   **asistente lo reincorpore** ("el head coach quiere platicar contigo" = señal fuerte).
 - **Regla simple:** sigue al que te pusieron enfrente. Si te entregaron con el
   asistente, el asistente es tu persona; el head coach entra en los momentos grandes.
+- **Si el head coach NO te contesta directo y en su lugar te escribe el asistente,
+  NO es un desaire** — es delegar. **La respuesta del asistente ES la respuesta.**
+  Tu correo funcionó (generó acción). No persigas al head coach ni mandes
+  "¿recibió mi correo?"; no le debes un agradecimiento por una respuesta que no dio.
+  Construye con el asistente.
 - **Si solo ha sido por correo,** proponer una **llamada** (teléfono/video) es una
   escalada natural y positiva: *"Estaría encantado de tener una llamada cuando les
   acomode."* Empieza con el asistente; el head coach vendrá después.
