@@ -1,0 +1,59 @@
+{
+  "_nota": "Config de envios. Datos privados (correos, clave, grupo) viven en .env (local, no en el repo). Ver 'flujo'.",
+  "confirmar_antes_de_enviar": true,
+  "enviar_por_separado": true,
+  "_nota_envio": "Se envia a Gael y a Karla POR SEPARADO (no a un grupo), para que funcione desde cualquier equipo. Cada uno tiene su propio handle de iMessage.",
+  "flujo": {
+    "1_generar": "Generar el reporte/archivo pedido.",
+    "2_preguntar_enviar": "Preguntar: ¿LO ENVIO?",
+    "si_NO": "No se envia. El archivo se guarda en documentos_generados/ (carpeta ya definida).",
+    "si_SI": "Preguntar: ¿temporal o definitivo? y aplicar el metodo correspondiente.",
+    "3_registrar": "Registrar cada envio en envios/historial.md."
+  },
+  "metodos": {
+    "tunel": {
+      "uso": "temporal",
+      "descripcion": "El archivo se guarda en envios/ y se sirve por un tunel que se abre con clave y se autoborra. Por iMessage se envia SOLO EL ENLACE del tunel (nunca el archivo).",
+      "carpeta_local": "envios/",
+      "envio_por": "imessage",
+      "solo_enlace": true,
+      "adjunto": false,
+      "protegido_con_clave": true,
+      "clave_env": "TUNEL_CLAVE",
+      "_nota_clave": "La clave real vive en .env (variable TUNEL_CLAVE), NUNCA en el repo (este repo es publico).",
+      "autoborra": true
+    },
+    "drive": {
+      "uso": "largo_plazo_definitivo",
+      "descripcion": "El archivo definitivo se GUARDA en la carpeta de Drive. Por iMessage se envia el ENLACE de Drive (nunca adjunto).",
+      "accion": "archivar_y_enviar_enlace",
+      "adjunto": false,
+      "se_envia": "enlace_drive",
+      "envio_por": "imessage",
+      "compartir_acceso_con_correos": true,
+      "carpeta_nombre": "Generados x Claude",
+      "carpeta_id": "1UtggVGvXSAKrKY1nXk7mSjw5Go__yWAJ",
+      "carpeta_url": "https://drive.google.com/drive/folders/1UtggVGvXSAKrKY1nXk7mSjw5Go__yWAJ"
+    }
+  },
+  "destinatarios": [
+    {
+      "nombre": "Gael",
+      "rol": "Nadador",
+      "email_env": "EMAIL_GAEL",
+      "imessage_env": "IMESSAGE_GAEL",
+      "activo": true
+    },
+    {
+      "nombre": "Karla",
+      "rol": "Reclutamiento / familia",
+      "email_env": "EMAIL_KARLA",
+      "imessage_env": "IMESSAGE_KARLA",
+      "activo": true
+    }
+  ],
+  "reportes": [
+    "documentos_generados/Universidades_Objetivo_Gael.xlsx",
+    "documentos_generados/Analisis_Coaches_Olimpico_Gael.docx"
+  ]
+}

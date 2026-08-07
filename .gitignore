@@ -28,3 +28,10 @@ Thumbs.db
 # Logs crudos de scraping (los procesados sí se versionan)
 registros/_raw/
 documentos_generados/
+
+# Archivos TEMPORALES estacionados en envios/ — NUNCA subir (se sirven por tunel
+# y se autoborran). Solo se versiona la config de la carpeta.
+envios/*
+!envios/README.md
+!envios/destinatarios.json
+!envios/historial.md
