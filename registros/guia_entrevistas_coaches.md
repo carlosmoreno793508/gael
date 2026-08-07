@@ -97,6 +97,20 @@ natación (NCAA). Pensada para un recluta **internacional (México), clase 2027*
 
 ---
 
+## Asistente vs. head coach — cómo avanzar (etiqueta clave)
+- **Es normal y correcto empezar con el asistente.** Suele ser el coordinador de
+  reclutamiento y tu aliado interno que te "vende" con el head coach.
+- **NO brinques por encima del asistente** para escribirle directo al head coach —
+  se ve mal. Deja que el asistente sea el **puente**.
+- **Para llegar al head coach,** pregúntale al asistente (con respeto):
+  *"¿Cuáles son los siguientes pasos?"* / *"¿Habría oportunidad de platicar con el
+  Coach [head] sobre el programa?"*.
+- **El head coach entra cuando el interés es serio** (charlas profundas, posible
+  oferta, visita). Que se suba a una llamada suele ser buena señal.
+- **Si solo ha sido por correo,** proponer una **llamada** (teléfono/video) es una
+  escalada natural y positiva: *"Estaría encantado de tener una llamada cuando les
+  acomode."* Empieza con el asistente; el head coach vendrá después.
+
 ## Preguntas extra muy valiosas (de expertos de reclutamiento)
 - **Estabilidad del programa:** *"¿Hay algún riesgo de que recorten el equipo de
   natación?"* Programas de natación **sí han sido eliminados** por los departamentos
